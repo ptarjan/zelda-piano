@@ -1,0 +1,20 @@
+{
+  "name": "zelda-piano",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Learn to read music on a real piano with the Ocarina of Time songs. Static PWA; the iPad listens, progress stays on the device.",
+  "engines": { "node": ">=24" },
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc --noEmit && vite build && node scripts/build-sw.ts",
+    "songs": "python3 scripts/export_songs.py",
+    "test": "node --test --test-reporter=spec \"test/**/*.test.ts\"",
+    "typecheck": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "@types/node": "^24.19.2",
+    "typescript": "^7.0.2",
+    "vite": "^8.3.4"
+  }
+}

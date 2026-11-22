@@ -1,0 +1,8523 @@
+{
+ "source": "Exported from the family Ocarina Songbook generator (gen.py) by scripts/export_songs.py. Do not edit by hand.",
+ "phrases": [
+  {
+   "id": "zeldas-lullaby",
+   "title": "Zelda's Lullaby",
+   "meter": "3/4",
+   "notes": [
+    {
+     "midi": 71,
+     "name": "B4",
+     "beats": 2.0,
+     "finger": 2
+    },
+    {
+     "midi": 74,
+     "name": "D5",
+     "beats": 1.0,
+     "finger": 4
+    },
+    {
+     "midi": 69,
+     "name": "A4",
+     "beats": 3.0,
+     "finger": 1
+    },
+    {
+     "midi": 71,
+     "name": "B4",
+     "beats": 2.0,
+     "finger": 2
+    },
+    {
+     "midi": 74,
+     "name": "D5",
+     "beats": 1.0,
+     "finger": 4
+    },
+    {
+     "midi": 69,
+     "name": "A4",
+     "beats": 3.0,
+     "finger": 1
+    }
+   ]
+  },
+  {
+   "id": "eponas-song",
+   "title": "Epona's Song",
+   "meter": "3/4",
+   "notes": [
+    {
+     "midi": 74,
+     "name": "D5",
+     "beats": 0.5,
+     "finger": 4
+    },
+    {
+     "midi": 71,
+     "name": "B4",
+     "beats": 0.5,
+     "finger": 2
+    },
+    {
+     "midi": 69,
+     "name": "A4",
+     "beats": 2.0,
+     "finger": 1
+    },
+    {
+     "midi": 74,
+     "name": "D5",
+     "beats": 0.5,
+     "finger": 4
+    },
+    {
+     "midi": 71,
+     "name": "B4",
+     "beats": 0.5,
+     "finger": 2
+    },
+    {
+     "midi": 69,
+     "name": "A4",
+     "beats": 2.0,
+     "finger": 1
+    }
+   ]
+  },
+  {
+   "id": "sarias-song",
+   "title": "Saria's Song",
+   "meter": "4/4",
+   "notes": [
+    {
+     "midi": 65,
+     "name": "F4",
+     "beats": 0.5,
+     "finger": 1
+    },
+    {
+     "midi": 69,
+     "name": "A4",
+     "beats": 0.5,
+     "finger": 3
+    },
+    {
+     "midi": 71,
+     "name": "B4",
+     "beats": 1.0,
+     "finger": 4
+    },
+    {
+     "midi": 65,
+     "name": "F4",
+     "beats": 0.5,
+     "finger": 1
+    },
+    {
+     "midi": 69,
+     "name": "A4",
+     "beats": 0.5,
+     "finger": 3
+    },
+    {
+     "midi": 71,
+     "name": "B4",
+     "beats": 1.0,
+     "finger": 4
+    }
+   ]
+  },
+  {
+   "id": "suns-song",
+   "title": "Sun's Song",
+   "meter": "3/4",
+   "notes": [
+    {
+     "midi": 69,
+     "name": "A4",
+     "beats": 0.5,
+     "finger": 3
+    },
+    {
+     "midi": 65,
+     "name": "F4",
+     "beats": 0.5,
+     "finger": 1
+    },
+    {
+     "midi": 74,
+     "name": "D5",
+     "beats": 2.0,
+     "finger": 4
+    },
+    {
+     "midi": 69,
+     "name": "A4",
+     "beats": 0.5,
+     "finger": 3
+    },
+    {
+     "midi": 65,
+     "name": "F4",
+     "beats": 0.5,
+     "finger": 1
+    },
+    {
+     "midi": 74,
+     "name": "D5",
+     "beats": 2.0,
+     "finger": 4
+    }
+   ]
+  },
+  {
+   "id": "song-of-time",
+   "title": "Song of Time",
+   "meter": "4/4",
+   "notes": [
+    {
+     "midi": 69,
+     "name": "A4",
+     "beats": 1.0,
+     "finger": 5
+    },
+    {
+     "midi": 62,
+     "name": "D4",
+     "beats": 2.0,
+     "finger": 1
+    },
+    {
+     "midi": 65,
+     "name": "F4",
+     "beats": 1.0,
+     "finger": 3
+    },
+    {
+     "midi": 69,
+     "name": "A4",
+     "beats": 1.0,
+     "finger": 5
+    },
+    {
+     "midi": 62,
+     "name": "D4",
+     "beats": 2.0,
+     "finger": 1
+    },
+    {
+     "midi": 65,
+     "name": "F4",
+     "beats": 1.0,
+     "finger": 3
+    }
+   ]
+  },
+  {
+   "id": "song-of-storms",
+   "title": "Song of Storms",
+   "meter": "3/4",
+   "notes": [
+    {
+     "midi": 62,
+     "name": "D4",
+     "beats": 0.5,
+     "finger": 1
+    },
+    {
+     "midi": 65,
+     "name": "F4",
+     "beats": 0.5,
+     "finger": 3
+    },
+    {
+     "midi": 74,
+     "name": "D5",
+     "beats": 2.0,
+     "finger": 1
+    },
+    {
+     "midi": 62,
+     "name": "D4",
+     "beats": 0.5,
+     "finger": 1
+    },
+    {
+     "midi": 65,
+     "name": "F4",
+     "beats": 0.5,
+     "finger": 3
+    },
+    {
+     "midi": 74,
+     "name": "D5",
+     "beats": 2.0,
+     "finger": 1
+    }
+   ]
+  },
+  {
+   "id": "minuet-of-forest",
+   "title": "Minuet of Forest",
+   "meter": "3/4",
+   "notes": [
+    {
+     "midi": 62,
+     "name": "D4",
+     "beats": 0.5,
+     "finger": 1
+    },
+    {
+     "midi": 74,
+     "name": "D5",
+     "beats": 0.5,
+     "finger": 4
+    },
+    {
+     "midi": 71,
+     "name": "B4",
+     "beats": 2.0,
+     "finger": 2
+    },
+    {
+     "midi": 69,
+     "name": "A4",
+     "beats": 0.5,
+     "finger": 1
+    },
+    {
+     "midi": 71,
+     "name": "B4",
+     "beats": 0.5,
+     "finger": 2
+    },
+    {
+     "midi": 69,
+     "name": "A4",
+     "beats": 2.0,
+     "finger": 1
+    }
+   ]
+  },
+  {
+   "id": "bolero-of-fire",
+   "title": "Bolero of Fire",
+   "meter": "4/4",
+   "notes": [
+    {
+     "midi": 65,
+     "name": "F4",
+     "beats": 0.5,
+     "finger": 3
+    },
+    {
+     "midi": 62,
+     "name": "D4",
+     "beats": 0.5,
+     "finger": 1
+    },
+    {
+     "midi": 65,
+     "name": "F4",
+     "beats": 0.5,
+     "finger": 3
+    },
+    {
+     "midi": 62,
+     "name": "D4",
+     "beats": 0.5,
+     "finger": 1
+    },
+    {
+     "midi": 69,
+     "name": "A4",
+     "beats": 0.5,
+     "finger": 5
+    },
+    {
+     "midi": 65,
+     "name": "F4",
+     "beats": 0.5,
+     "finger": 3
+    },
+    {
+     "midi": 69,
+     "name": "A4",
+     "beats": 0.5,
+     "finger": 5
+    },
+    {
+     "midi": 65,
+     "name": "F4",
+     "beats": 0.5,
+     "finger": 3
+    }
+   ]
+  },
+  {
+   "id": "serenade-of-water",
+   "title": "Serenade of Water",
+   "meter": "3/4",
+   "notes": [
+    {
+     "midi": 62,
+     "name": "D4",
+     "beats": 1.0,
+     "finger": 1
+    },
+    {
+     "midi": 65,
+     "name": "F4",
+     "beats": 1.0,
+     "finger": 2
+    },
+    {
+     "midi": 69,
+     "name": "A4",
+     "beats": 1.0,
+     "finger": 3
+    },
+    {
+     "midi": 69,
+     "name": "A4",
+     "beats": 1.0,
+     "finger": 3
+    },
+    {
+     "midi": 71,
+     "name": "B4",
+     "beats": 2.0,
+     "finger": 4
+    }
+   ]
+  },
+  {
+   "id": "nocturne-of-shadow",
+   "title": "Nocturne of Shadow",
+   "meter": "4/4",
+   "notes": [
+    {
+     "midi": 71,
+     "name": "B4",
+     "beats": 1.0,
+     "finger": 4
+    },
+    {
+     "midi": 69,
+     "name": "A4",
+     "beats": 1.0,
+     "finger": 3
+    },
+    {
+     "midi": 69,
+     "name": "A4",
+     "beats": 0.5,
+     "finger": 3
+    },
+    {
+     "midi": 62,
+     "name": "D4",
+     "beats": 0.5,
+     "finger": 1
+    },
+    {
+     "midi": 71,
+     "name": "B4",
+     "beats": 0.5,
+     "finger": 4
+    },
+    {
+     "midi": 69,
+     "name": "A4",
+     "beats": 0.5,
+     "finger": 3
+    },
+    {
+     "midi": 65,
+     "name": "F4",
+     "beats": 4.0,
+     "finger": 1
+    }
+   ]
+  },
+  {
+   "id": "requiem-of-spirit",
+   "title": "Requiem of Spirit",
+   "meter": "4/4",
+   "notes": [
+    {
+     "midi": 62,
+     "name": "D4",
+     "beats": 1.0,
+     "finger": 1
+    },
+    {
+     "midi": 65,
+     "name": "F4",
+     "beats": 0.5,
+     "finger": 3
+    },
+    {
+     "midi": 62,
+     "name": "D4",
+     "beats": 0.5,
+     "finger": 1
+    },
+    {
+     "midi": 69,
+     "name": "A4",
+     "beats": 1.0,
+     "finger": 5
+    },
+    {
+     "midi": 65,
+     "name": "F4",
+     "beats": 1.0,
+     "finger": 3
+    },
+    {
+     "midi": 62,
+     "name": "D4",
+     "beats": 4.0,
+     "finger": 1
+    }
+   ]
+  },
+  {
+   "id": "prelude-of-light",
+   "title": "Prelude of Light",
+   "meter": "4/4",
+   "notes": [
+    {
+     "midi": 74,
+     "name": "D5",
+     "beats": 0.5,
+     "finger": 4
+    },
+    {
+     "midi": 69,
+     "name": "A4",
+     "beats": 0.5,
+     "finger": 1
+    },
+    {
+     "midi": null,
+     "beats": 1.0
+    },
+    {
+     "midi": 74,
+     "name": "D5",
+     "beats": 0.5,
+     "finger": 4
+    },
+    {
+     "midi": 69,
+     "name": "A4",
+     "beats": 0.5,
+     "finger": 1
+    },
+    {
+     "midi": 71,
+     "name": "B4",
+     "beats": 0.5,
+     "finger": 2
+    },
+    {
+     "midi": 74,
+     "name": "D5",
+     "beats": 0.5,
+     "finger": 4
+    }
+   ]
+  }
+ ],
+ "whole": [
+  {
+   "id": "zeldas-lullaby",
+   "title": "Zelda's Lullaby",
+   "meter": "3/4",
+   "bars": [
+    [
+     {
+      "midi": 71,
+      "name": "B4",
+      "beats": 2.0
+     },
+     {
+      "midi": 74,
+      "name": "D5",
+      "beats": 1.0
+     }
+    ],
+    [
+     {
+      "midi": 69,
+      "name": "A4",
+      "beats": 2.0
+     },
+     {
+      "midi": 67,
+      "name": "G4",
+      "beats": 0.5
+     },
+     {
+      "midi": 69,
+      "name": "A4",
+      "beats": 0.5
+     }
+    ],
+    [
+     {
+      "midi": 71,
+      "name": "B4",
+      "beats": 2.0
+     },
+     {
+      "midi": 74,
+      "name": "D5",
+      "beats": 1.0
+     }
+    ],
+    [
+     {
+      "midi": 69,
+      "name": "A4",
+      "beats": 3.0
+     }
+    ],
+    [
+     {
+      "midi": 71,
+      "name": "B4",
+      "beats": 2.0
+     },
+     {
+      "midi": 74,
+      "name": "D5",
+      "beats": 1.0
+     }
+    ],
+    [
+     {
+      "midi": 81,
+      "name": "A5",
+      "beats": 2.0
+     },
+     {
+      "midi": 79,
+      "name": "G5",
+      "beats": 1.0
+     }
+    ],
+    [
+     {
+      "midi": 74,
+      "name": "D5",
+      "beats": 2.0
+     },
+     {
+      "midi": 72,
+      "name": "C5",
+      "beats": 0.5
+     },
+     {
+      "midi": 71,
+      "name": "B4",
+      "beats": 0.5
+     }
+    ],
+    [
+     {
+      "midi": 69,
+      "name": "A4",
+      "beats": 3.0
+     }
+    ]
+   ],
+   "partner": [
+    {
+     "rh": [
+      {
+       "midis": [
+        67,
+        71
+       ],
+       "names": [
+        "G4",
+        "B4"
+       ],
+       "beats": 2.0
+      },
+      {
+       "midis": [
+        71,
+        74
+       ],
+       "names": [
+        "B4",
+        "D5"
+       ],
+       "beats": 1.0
+      }
+     ],
+     "lh": [
+      {
+       "midis": [
+        48
+       ],
+       "names": [
+        "C3"
+       ],
+       "beats": 1.0
+      },
+      {
+       "midis": [
+        52,
+        55
+       ],
+       "names": [
+        "E3",
+        "G3"
+       ],
+       "beats": 2.0
+      }
+     ]
+    },
+    {
+     "rh": [
+      {
+       "midis": [
+        66,
+        69
+       ],
+       "names": [
+        "F#4",
+        "A4"
+       ],
+       "beats": 2.0
+      },
+      {
+       "midis": [
+        67
+       ],
+       "names": [
+        "G4"
+       ],
+       "beats": 0.5
+      },
+      {
+       "midis": [
+        69
+       ],
+       "names": [
+        "A4"
+       ],
+       "beats": 0.5
+      }
+     ],
+     "lh": [
+      {
+       "midis": [
+        48
+       ],
+       "names": [
+        "C3"
+       ],
+       "beats": 1.0
+      },
+      {
+       "midis": [
+        54,
+        57
+       ],
+       "names": [
+        "F#3",
+        "A3"
+       ],
+       "beats": 2.0
+      }
+     ]
+    },
+    {
+     "rh": [
+      {
+       "midis": [
+        67,
+        71
+       ],
+       "names": [
+        "G4",
+        "B4"
+       ],
+       "beats": 2.0
+      },
+      {
+       "midis": [
+        71,
+        74
+       ],
+       "names": [
+        "B4",
+        "D5"
+       ],
+       "beats": 1.0
+      }
+     ],
+     "lh": [
+      {
+       "midis": [
+        48
+       ],
+       "names": [
+        "C3"
+       ],
+       "beats": 1.0
+      },
+      {
+       "midis": [
+        52,
+        55
+       ],
+       "names": [
+        "E3",
+        "G3"
+       ],
+       "beats": 2.0
+      }
+     ]
+    },
+    {
+     "rh": [
+      {
+       "midis": [
+        66,
+        69
+       ],
+       "names": [
+        "F#4",
+        "A4"
+       ],
+       "beats": 3.0
+      }
+     ],
+     "lh": [
+      {
+       "midis": [
+        48
+       ],
+       "names": [
+        "C3"
+       ],
+       "beats": 1.0
+      },
+      {
+       "midis": [
+        54,
+        57
+       ],
+       "names": [
+        "F#3",
+        "A3"
+       ],
+       "beats": 2.0
+      }
+     ]
+    },
+    {
+     "rh": [
+      {
+       "midis": [
+        62,
+        71
+       ],
+       "names": [
+        "D4",
+        "B4"
+       ],
+       "beats": 2.0
+      },
+      {
+       "midis": [
+        71,
+        74
+       ],
+       "names": [
+        "B4",
+        "D5"
+       ],
+       "beats": 1.0
+      }
+     ],
+     "lh": [
+      {
+       "midis": [
+        47
+       ],
+       "names": [
+        "B2"
+       ],
+       "beats": 1.0
+      },
+      {
+       "midis": [
+        50,
+        54,
+        57
+       ],
+       "names": [
+        "D3",
+        "F#3",
+        "A3"
+       ],
+       "beats": 2.0
+      }
+     ]
+    },
+    {
+     "rh": [
+      {
+       "midis": [
+        81
+       ],
+       "names": [
+        "A5"
+       ],
+       "beats": 2.0
+      },
+      {
+       "midis": [
+        76,
+        79
+       ],
+       "names": [
+        "E5",
+        "G5"
+       ],
+       "beats": 1.0
+      }
+     ],
+     "lh": [
+      {
+       "midis": [
+        46
+       ],
+       "names": [
+        "A#2"
+       ],
+       "beats": 1.0
+      },
+      {
+       "midis": [
+        49,
+        52,
+        55
+       ],
+       "names": [
+        "C#3",
+        "E3",
+        "G3"
+       ],
+       "beats": 2.0
+      }
+     ]
+    },
+    {
+     "rh": [
+      {
+       "midis": [
+        71,
+        74
+       ],
+       "names": [
+        "B4",
+        "D5"
+       ],
+       "beats": 2.0
+      },
+      {
+       "midis": [
+        72
+       ],
+       "names": [
+        "C5"
+       ],
+       "beats": 0.5
+      },
+      {
+       "midis": [
+        71
+       ],
+       "names": [
+        "B4"
+       ],
+       "beats": 0.5
+      }
+     ],
+     "lh": [
+      {
+       "midis": [
+        45
+       ],
+       "names": [
+        "A2"
+       ],
+       "beats": 1.0
+      },
+      {
+       "midis": [
+        48,
+        52,
+        55
+       ],
+       "names": [
+        "C3",
+        "E3",
+        "G3"
+       ],
+       "beats": 2.0
+      }
+     ]
+    },
+    {
+     "rh": [
+      {
+       "midis": [
+        66,
+        69
+       ],
+       "names": [
+        "F#4",
+        "A4"
+       ],
+       "beats": 3.0
+      }
+     ],
+     "lh": [
+      {
+       "midis": [
+        38
+       ],
+       "names": [
+        "D2"
+       ],
+       "beats": 1.0
+      },
+      {
+       "midis": [
+        48,
+        54
+       ],
+       "names": [
+        "C3",
+        "F#3"
+       ],
+       "beats": 2.0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "eponas-song",
+   "title": "Epona's Song",
+   "meter": "3/4",
+   "bars": [
+    [
+     {
+      "midi": 74,
+      "name": "D5",
+      "beats": 0.5
+     },
+     {
+      "midi": 71,
+      "name": "B4",
+      "beats": 0.5
+     },
+     {
+      "midi": 69,
+      "name": "A4",
+      "beats": 2.0
+     }
+    ],
+    [
+     {
+      "midi": 74,
+      "name": "D5",
+      "beats": 0.5
+     },
+     {
+      "midi": 71,
+      "name": "B4",
+      "beats": 0.5
+     },
+     {
+      "midi": 69,
+      "name": "A4",
+      "beats": 2.0
+     }
+    ],
+    [
+     {
+      "midi": 74,
+      "name": "D5",
+      "beats": 0.5
+     },
+     {
+      "midi": 71,
+      "name": "B4",
+      "beats": 0.5
+     },
+     {
+      "midi": 69,
+      "name": "A4",
+      "beats": 1.0
+     },
+     {
+      "midi": 71,
+      "name": "B4",
+      "beats": 1.0
+     }
+    ],
+    [
+     {
+      "midi": 69,
+      "name": "A4",
+      "beats": 3.0
+     }
+    ],
+    [
+     {
+      "midi": 66,
+      "name": "F#4",
+      "beats": 1.0
+     },
+     {
+      "midi": 65,
+      "name": "F4",
+      "beats": 1.0
+     },
+     {
+      "midi": 66,
+      "name": "F#4",
+      "beats": 1.0
+     }
+    ],
+    [
+     {
+      "midi": 73,
+      "name": "C#5",
+      "beats": 0.5
+     },
+     {
+      "midi": 74,
+      "name": "D5",
+      "beats": 0.5
+     },
+     {
+      "midi": 71,
+      "name": "B4",
+      "beats": 2.0
+     }
+    ],
+    [
+     {
+      "midi": 74,
+      "name": "D5",
+      "beats": 2.0
+     },
+     {
+      "midi": 74,
+      "name": "D5",
+      "beats": 1.0
+     }
+    ],
+    [
+     {
+      "midi": 73,
+      "name": "C#5",
+      "beats": 0.5
+     },
+     {
+      "midi": 71,
+      "name": "B4",
+      "beats": 0.5
+     },
+     {
+      "midi": 69,
+      "name": "A4",
+      "beats": 2.0
+     }
+    ],
+    [
+     {
+      "midi": 74,
+      "name": "D5",
+      "beats": 0.5
+     },
+     {
+      "midi": 71,
+      "name": "B4",
+      "beats": 0.5
+     },
+     {
+      "midi": 69,
+      "name": "A4",
+      "beats": 2.0
+     }
+    ],
+    [
+     {
+      "midi": 74,
+      "name": "D5",
+      "beats": 0.5
+     },
+     {
+      "midi": 71,
+      "name": "B4",
+      "beats": 0.5
+     },
+     {
+      "midi": 69,
+      "name": "A4",
+      "beats": 2.0
+     }
+    ],
+    [
+     {
+      "midi": 74,
+      "name": "D5",
+      "beats": 0.5
+     },
+     {
+      "midi": 71,
+      "name": "B4",
+      "beats": 0.5
+     },
+     {
+      "midi": 69,
+      "name": "A4",
+      "beats": 1.0
+     },
+     {
+      "midi": 71,
+      "name": "B4",
+      "beats": 1.0
+     }
+    ],
+    [
+     {
+      "midi": 69,
+      "name": "A4",
+      "beats": 3.0
+     }
+    ],
+    [
+     {
+      "midi": 66,
+      "name": "F#4",
+      "beats": 1.0
+     },
+     {
+      "midi": 65,
+      "name": "F4",
+      "beats": 1.0
+     },
+     {
+      "midi": 66,
+      "name": "F#4",
+      "beats": 1.0
+     }
+    ],
+    [
+     {
+      "midi": 71,
+      "name": "B4",
+      "beats": 0.5
+     },
+     {
+      "midi": 73,
+      "name": "C#5",
+      "beats": 0.5
+     },
+     {
+      "midi": 74,
+      "name": "D5",
+      "beats": 2.0
+     }
+    ],
+    [
+     {
+      "midi": 74,
+      "name": "D5",
+      "beats": 2.0
+     },
+     {
+      "midi": 76,
+      "name": "E5",
+      "beats": 1.0
+     }
+    ],
+    [
+     {
+      "midi": 74,
+      "name": "D5",
+      "beats": 3.0
+     }
+    ]
+   ],
+   "partner": [
+    {
+     "rh": [
+      {
+       "midis": [
+        74
+       ],
+       "names": [
+        "D5"
+       ],
+       "beats": 0.5
+      },
+      {
+       "midis": [
+        71
+       ],
+       "names": [
+        "B4"
+       ],
+       "beats": 0.5
+      },
+      {
+       "midis": [
+        66,
+        69
+       ],
+       "names": [
+        "F#4",
+        "A4"
+       ],
+       "beats": 2.0
+      }
+     ],
+     "lh": [
+      {
+       "midis": [
+        50
+       ],
+       "names": [
+        "D3"
+       ],
+       "beats": 1.0
+      },
+      {
+       "midis": [
+        57,
+        62
+       ],
+       "names": [
+        "A3",
+        "D4"
+       ],
+       "beats": 2.0
+      }
+     ]
+    },
+    {
+     "rh": [
+      {
+       "midis": [
+        74
+       ],
+       "names": [
+        "D5"
+       ],
+       "beats": 0.5
+      },
+      {
+       "midis": [
+        71
+       ],
+       "names": [
+        "B4"
+       ],
+       "beats": 0.5
+      },
+      {
+       "midis": [
+        66,
+        69
+       ],
+       "names": [
+        "F#4",
+        "A4"
+       ],
+       "beats": 2.0
+      }
+     ],
+     "lh": [
+      {
+       "midis": [
+        49
+       ],
+       "names": [
+        "C#3"
+       ],
+       "beats": 1.0
+      },
+      {
+       "midis": [
+        57,
+        61
+       ],
+       "names": [
+        "A3",
+        "C#4"
+       ],
+       "beats": 2.0
+      }
+     ]
+    },
+    {
+     "rh": [
+      {
+       "midis": [
+        74
+       ],
+       "names": [
+        "D5"
+       ],
+       "beats": 0.5
+      },
+      {
+       "midis": [
+        71
+       ],
+       "names": [
+        "B4"
+       ],
+       "beats": 0.5
+      },
+      {
+       "midis": [
+        66,
+        69
+       ],
+       "names": [
+        "F#4",
+        "A4"
+       ],
+       "beats": 1.0
+      },
+      {
+       "midis": [
+        67,
+        71
+       ],
+       "names": [
+        "G4",
+        "B4"
+       ],
+       "beats": 1.0
+      }
+     ],
+     "lh": [
+      {
+       "midis": [
+        50
+       ],
+       "names": [
+        "D3"
+       ],
+       "beats": 1.0
+      },
+      {
+       "midis": [
+        57,
+        62
+       ],
+       "names": [
+        "A3",
+        "D4"
+       ],
+       "beats": 2.0
+      }
+     ]
+    },
+    {
+     "rh": [
+      {
+       "midis": [
+        66,
+        69
+       ],
+       "names": [
+        "F#4",
+        "A4"
+       ],
+       "beats": 3.0
+      }
+     ],
+     "lh": [
+      {
+       "midis": [
+        47
+       ],
+       "names": [
+        "B2"
+       ],
+       "beats": 1.0
+      },
+      {
+       "midis": [
+        55,
+        59
+       ],
+       "names": [
+        "G3",
+        "B3"
+       ],
+       "beats": 2.0
+      }
+     ]
+    },
+    {
+     "rh": [
+      {
+       "midis": [
+        66
+       ],
+       "names": [
+        "F#4"
+       ],
+       "beats": 1.0
+      },
+      {
+       "midis": [
+        65
+       ],
+       "names": [
+        "F4"
+       ],
+       "beats": 1.0
+      },
+      {
+       "midis": [
+        66
+       ],
+       "names": [
+        "F#4"
+       ],
+       "beats": 1.0
+      }
+     ],
+     "lh": [
+      {
+       "midis": [
+        47
+       ],
+       "names": [
+        "B2"
+       ],
+       "beats": 1.0
+      },
+      {
+       "midis": [
+        54,
+        59
+       ],
+       "names": [
+        "F#3",
+        "B3"
+       ],
+       "beats": 2.0
+      }
+     ]
+    },
+    {
+     "rh": [
+      {
+       "midis": [
+        73
+       ],
+       "names": [
+        "C#5"
+       ],
+       "beats": 0.5
+      },
+      {
+       "midis": [
+        74
+       ],
+       "names": [
+        "D5"
+       ],
+       "beats": 0.5
+      },
+      {
+       "midis": [
+        62,
+        71
+       ],
+       "names": [
+        "D4",
+        "B4"
+       ],
+       "beats": 2.0
+      }
+     ],
+     "lh": [
+      {
+       "midis": [
+        45
+       ],
+       "names": [
+        "A2"
+       ],
+       "beats": 1.0
+      },
+      {
+       "midis": [
+        54,
+        57
+       ],
+       "names": [
+        "F#3",
+        "A3"
+       ],
+       "beats": 2.0
+      }
+     ]
+    },
+    {
+     "rh": [
+      {
+       "midis": [
+        71,
+        74
+       ],
+       "names": [
+        "B4",
+        "D5"
+       ],
+       "beats": 2.0
+      },
+      {
+       "midis": [
+        71,
+        74
+       ],
+       "names": [
+        "B4",
+        "D5"
+       ],
+       "beats": 1.0
+      }
+     ],
+     "lh": [
+      {
+       "midis": [
+        43
+       ],
+       "names": [
+        "G2"
+       ],
+       "beats": 1.0
+      },
+      {
+       "midis": [
+        55,
+        59
+       ],
+       "names": [
+        "G3",
+        "B3"
+       ],
+       "beats": 2.0
+      }
+     ]
+    },
+    {
+     "rh": [
+      {
+       "midis": [
+        73
+       ],
+       "names": [
+        "C#5"
+       ],
+       "beats": 0.5
+      },
+      {
+       "midis": [
+        71
+       ],
+       "names": [
+        "B4"
+       ],
+       "beats": 0.5
+      },
+      {
+       "midis": [
+        66,
+        69
+       ],
+       "names": [
+        "F#4",
+        "A4"
+       ],
+       "beats": 2.0
+      }
+     ],
+     "lh": [
+      {
+       "midis": [
+        45
+       ],
+       "names": [
+        "A2"
+       ],
+       "beats": 1.0
+      },
+      {
+       "midis": [
+        55,
+        61
+       ],
+       "names": [
+        "G3",
+        "C#4"
+       ],
+       "beats": 2.0
+      }
+     ]
+    },
+    {
+     "rh": [
+      {
+       "midis": [
+        74
+       ],
+       "names": [
+        "D5"
+       ],
+       "beats": 0.5
+      },
+      {
+       "midis": [
+        71
+       ],
+       "names": [
+        "B4"
+       ],
+       "beats": 0.5
+      },
+      {
+       "midis": [
+        66,
+        69
+       ],
+       "names": [
+        "F#4",
+        "A4"
+       ],
+       "beats": 2.0
+      }
+     ],
+     "lh": [
+      {
+       "midis": [
+        50
+       ],
+       "names": [
+        "D3"
+       ],
+       "beats": 1.0
+      },
+      {
+       "midis": [
+        57,
+        62
+       ],
+       "names": [
+        "A3",
+        "D4"
+       ],
+       "beats": 2.0
+      }
+     ]
+    },
+    {
+     "rh": [
+      {
+       "midis": [
+        74
+       ],
+       "names": [
+        "D5"
+       ],
+       "beats": 0.5
+      },
+      {
+       "midis": [
+        71
+       ],
+       "names": [
+        "B4"
+       ],
+       "beats": 0.5
+      },
+      {
+       "midis": [
+        66,
+        69
+       ],
+       "names": [
+        "F#4",
+        "A4"
+       ],
+       "beats": 2.0
+      }
+     ],
+     "lh": [
+      {
+       "midis": [
+        49
+       ],
+       "names": [
+        "C#3"
+       ],
+       "beats": 1.0
+      },
+      {
+       "midis": [
+        57,
+        61
+       ],
+       "names": [
+        "A3",
+        "C#4"
+       ],
+       "beats": 2.0
+      }
+     ]
+    },
+    {
+     "rh": [
+      {
+       "midis": [
+        74
+       ],
+       "names": [
+        "D5"
+       ],
+       "beats": 0.5
+      },
+      {
+       "midis": [
+        71
+       ],
+       "names": [
+        "B4"
+       ],
+       "beats": 0.5
+      },
+      {
+       "midis": [
+        66,
+        69
+       ],
+       "names": [
+        "F#4",
+        "A4"
+       ],
+       "beats": 1.0
+      },
+      {
+       "midis": [
+        67,
+        71
+       ],
+       "names": [
+        "G4",
+        "B4"
+       ],
+       "beats": 1.0
+      }
+     ],
+     "lh": [
+      {
+       "midis": [
+        50
+       ],
+       "names": [
+        "D3"
+       ],
+       "beats": 1.0
+      },
+      {
+       "midis": [
+        57,
+        62
+       ],
+       "names": [
+        "A3",
+        "D4"
+       ],
+       "beats": 2.0
+      }
+     ]
+    },
+    {
+     "rh": [
+      {
+       "midis": [
+        66,
+        69
+       ],
+       "names": [
+        "F#4",
+        "A4"
+       ],
+       "beats": 3.0
+      }
+     ],
+     "lh": [
+      {
+       "midis": [
+        47
+       ],
+       "names": [
+        "B2"
+       ],
+       "beats": 1.0
+      },
+      {
+       "midis": [
+        55,
+        59
+       ],
+       "names": [
+        "G3",
+        "B3"
+       ],
+       "beats": 2.0
+      }
+     ]
+    },
+    {
+     "rh": [
+      {
+       "midis": [
+        66
+       ],
+       "names": [
+        "F#4"
+       ],
+       "beats": 1.0
+      },
+      {
+       "midis": [
+        65
+       ],
+       "names": [
+        "F4"
+       ],
+       "beats": 1.0
+      },
+      {
+       "midis": [
+        66
+       ],
+       "names": [
+        "F#4"
+       ],
+       "beats": 1.0
+      }
+     ],
+     "lh": [
+      {
+       "midis": [
+        47
+       ],
+       "names": [
+        "B2"
+       ],
+       "beats": 1.0
+      },
+      {
+       "midis": [
+        54,
+        59
+       ],
+       "names": [
+        "F#3",
+        "B3"
+       ],
+       "beats": 2.0
+      }
+     ]
+    },
+    {
+     "rh": [
+      {
+       "midis": [
+        71
+       ],
+       "names": [
+        "B4"
+       ],
+       "beats": 0.5
+      },
+      {
+       "midis": [
+        73
+       ],
+       "names": [
+        "C#5"
+       ],
+       "beats": 0.5
+      },
+      {
+       "midis": [
+        71,
+        74
+       ],
+       "names": [
+        "B4",
+        "D5"
+       ],
+       "beats": 2.0
+      }
+     ],
+     "lh": [
+      {
+       "midis": [
+        45
+       ],
+       "names": [
+        "A2"
+       ],
+       "beats": 1.0
+      },
+      {
+       "midis": [
+        54,
+        57
+       ],
+       "names": [
+        "F#3",
+        "A3"
+       ],
+       "beats": 2.0
+      }
+     ]
+    },
+    {
+     "rh": [
+      {
+       "midis": [
+        71,
+        74
+       ],
+       "names": [
+        "B4",
+        "D5"
+       ],
+       "beats": 2.0
+      },
+      {
+       "midis": [
+        73,
+        76
+       ],
+       "names": [
+        "C#5",
+        "E5"
+       ],
+       "beats": 1.0
+      }
+     ],
+     "lh": [
+      {
+       "midis": [
+        43
+       ],
+       "names": [
+        "G2"
+       ],
+       "beats": 1.0
+      },
+      {
+       "midis": [
+        55,
+        59
+       ],
+       "names": [
+        "G3",
+        "B3"
+       ],
+       "beats": 1.0
+      },
+      {
+       "midis": [
+        55,
+        61
+       ],
+       "names": [
+        "G3",
+        "C#4"
+       ],
+       "beats": 1.0
+      }
+     ]
+    },
+    {
+     "rh": [
+      {
+       "midis": [
+        66,
+        74
+       ],
+       "names": [
+        "F#4",
+        "D5"
+       ],
+       "beats": 3.0
+      }
+     ],
+     "lh": [
+      {
+       "midis": [
+        50
+       ],
+       "names": [
+        "D3"
+       ],
+       "beats": 1.0
+      },
+      {
+       "midis": [
+        57,
+        62
+       ],
+       "names": [
+        "A3",
+        "D4"
+       ],
+       "beats": 2.0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "sarias-song",
+   "title": "Saria's Song",
+   "meter": "4/4",
+   "bars": [
+    [
+     {
+      "midi": 65,
+      "name": "F4",
+      "beats": 0.5
+     },
+     {
+      "midi": 69,
+      "name": "A4",
+      "beats": 0.5
+     },
+     {
+      "midi": 71,
+      "name": "B4",
+      "beats": 1.0
+     },
+     {
+      "midi": 65,
+      "name": "F4",
+      "beats": 0.5
+     },
+     {
+      "midi": 69,
+      "name": "A4",
+      "beats": 0.5
+     },
+     {
+      "midi": 71,
+      "name": "B4",
+      "beats": 1.0
+     }
+    ],
+    [
+     {
+      "midi": 65,
+      "name": "F4",
+      "beats": 0.5
+     },
+     {
+      "midi": 69,
+      "name": "A4",
+      "beats": 0.5
+     },
+     {
+      "midi": 71,
+      "name": "B4",
+      "beats": 0.5
+     },
+     {
+      "midi": 76,
+      "name": "E5",
+      "beats": 0.5
+     },
+     {
+      "midi": 74,
+      "name": "D5",
+      "beats": 1.0
+     },
+     {
+      "midi": 71,
+      "name": "B4",
+      "beats": 0.5
+     },
+     {
+      "midi": 72,
+      "name": "C5",
+      "beats": 0.5
+     }
+    ],
+    [
+     {
+      "midi": 71,
+      "name": "B4",
+      "beats": 0.5
+     },
+     {
+      "midi": 67,
+      "name": "G4",
+      "beats": 0.5
+     },
+     {
+      "midi": 64,
+      "name": "E4",
+      "beats": 2.0,
+      "tie": true
+     },
+     {
+      "midi": 64,
+      "name": "E4",
+      "beats": 0.5
+     },
+     {
+      "midi": 62,
+      "name": "D4",
+      "beats": 0.5
+     }
+    ],
+    [
+     {
+      "midi": 64,
+      "name": "E4",
+      "beats": 0.5
+     },
+     {
+      "midi": 67,
+      "name": "G4",
+      "beats": 0.5
+     },
+     {
+      "midi": 64,
+      "name": "E4",
+      "beats": 3.0
+     }
+    ],
+    [
+     {
+      "midi": 65,
+      "name": "F4",
+      "beats": 0.5
+     },
+     {
+      "midi": 69,
+      "name": "A4",
+      "beats": 0.5
+     },
+     {
+      "midi": 71,
+      "name": "B4",
+      "beats": 1.0
+     },
+     {
+      "midi": 65,
+      "name": "F4",
+      "beats": 0.5
+     },
+     {
+      "midi": 69,
+      "name": "A4",
+      "beats": 0.5
+     },
+     {
+      "midi": 71,
+      "name": "B4",
+      "beats": 1.0
+     }
+    ],
+    [
+     {
+      "midi": 65,
+      "name": "F4",
+      "beats": 0.5
+     },
+     {
+      "midi": 69,
+      "name": "A4",
+      "beats": 0.5
+     },
+     {
+      "midi": 71,
+      "name": "B4",
+      "beats": 0.5
+     },
+     {
+      "midi": 76,
+      "name": "E5",
+      "beats": 0.5
+     },
+     {
+      "midi": 74,
+      "name": "D5",
+      "beats": 1.0
+     },
+     {
+      "midi": 71,
+      "name": "B4",
+      "beats": 0.5
+     },
+     {
+      "midi": 72,
+      "name": "C5",
+      "beats": 0.5
+     }
+    ],
+    [
+     {
+      "midi": 76,
+      "name": "E5",
+      "beats": 0.5
+     },
+     {
+      "midi": 71,
+      "name": "B4",
+      "beats": 0.5
+     },
+     {
+      "midi": 67,
+      "name": "G4",
+      "beats": 2.0,
+      "tie": true
+     },
+     {
+      "midi": 67,
+      "name": "G4",
+      "beats": 0.5
+     },
+     {
+      "midi": 71,
+      "name": "B4",
+      "beats": 0.5
+     }
+    ],
+    [
+     {
+      "midi": 67,
+      "name": "G4",
+      "beats": 0.5
+     },
+     {
+      "midi": 62,
+      "name": "D4",
+      "beats": 0.5
+     },
+     {
+      "midi": 64,
+      "name": "E4",
+      "beats": 3.0
+     }
+    ]
+   ],
+   "partner": [
+    {
+     "rh": [
+      {
+       "midis": [
+        65
+       ],
+       "names": [
+        "F4"
+       ],
+       "beats": 0.5
+      },
+      {
+       "midis": [
+        69
+       ],
+       "names": [
+        "A4"
+       ],
+       "beats": 0.5
+      },
+      {
+       "midis": [
+        67,
+        71
+       ],
+       "names": [
+        "G4",
+        "B4"
+       ],
+       "beats": 1.0
+      },
+      {
+       "midis": [
+        65
+       ],
+       "names": [
+        "F4"
+       ],
+       "beats": 0.5
+      },
+      {
+       "midis": [
+        69
+       ],
+       "names": [
+        "A4"
+       ],
+       "beats": 0.5
+      },
+      {
+       "midis": [
+        67,
+        71
+       ],
+       "names": [
+        "G4",
+        "B4"
+       ],
+       "beats": 1.0
+      }
+     ],
+     "lh": [
+      {
+       "midis": [
+        41
+       ],
+       "names": [
+        "F2"
+       ],
+       "beats": 2.0
+      },
+      {
+       "midis": [
+        57,
+        60
+       ],
+       "names": [
+        "A3",
+        "C4"
+       ],
+       "beats": 2.0
+      }
+     ]
+    },
+    {
+     "rh": [
+      {
+       "midis": [
+        65
+       ],
+       "names": [
+        "F4"
+       ],
+       "beats": 0.5
+      },
+      {
+       "midis": [
+        69
+       ],
+       "names": [
+        "A4"
+       ],
+       "beats": 0.5
+      },
+      {
+       "midis": [
+        71
+       ],
+       "names": [
+        "B4"
+       ],
+       "beats": 0.5
+      },
+      {
+       "midis": [
+        76
+       ],
+       "names": [
+        "E5"
+       ],
+       "beats": 0.5
+      },
+      {
+       "midis": [
+        71,
+        74
+       ],
+       "names": [
+        "B4",
+        "D5"
+       ],
+       "beats": 1.0
+      },
+      {
+       "midis": [
+        71
+       ],
+       "names": [
+        "B4"
+       ],
+       "beats": 0.5
+      },
+      {
+       "midis": [
+        72
+       ],
+       "names": [
+        "C5"
+       ],
+       "beats": 0.5
+      }
+     ],
+     "lh": [
+      {
+       "midis": [
+        41
+       ],
+       "names": [
+        "F2"
+       ],
+       "beats": 2.0
+      },
+      {
+       "midis": [
+        57,
+        60
+       ],
+       "names": [
+        "A3",
+        "C4"
+       ],
+       "beats": 2.0
+      }
+     ]
+    },
+    {
+     "rh": [
+      {
+       "midis": [
+        71
+       ],
+       "names": [
+        "B4"
+       ],
+       "beats": 0.5
+      },
+      {
+       "midis": [
+        67
+       ],
+       "names": [
+        "G4"
+       ],
+       "beats": 0.5
+      },
+      {
+       "midis": [
+        60,
+        64
+       ],
+       "names": [
+        "C4",
+        "E4"
+       ],
+       "beats": 2.0,
+       "tie": true
+      },
+      {
+       "midis": [
+        60,
+        64
+       ],
+       "names": [
+        "C4",
+        "E4"
+       ],
+       "beats": 0.5
+      },
+      {
+       "midis": [
+        59,
+        62
+       ],
+       "names": [
+        "B3",
+        "D4"
+       ],
+       "beats": 0.5
+      }
+     ],
+     "lh": [
+      {
+       "midis": [
+        36
+       ],
+       "names": [
+        "C2"
+       ],
+       "beats": 2.0
+      },
+      {
+       "midis": [
+        52,
+        55
+       ],
+       "names": [
+        "E3",
+        "G3"
+       ],
+       "beats": 2.0
+      }
+     ]
+    },
+    {
+     "rh": [
+      {
+       "midis": [
+        64
+       ],
+       "names": [
+        "E4"
+       ],
+       "beats": 0.5
+      },
+      {
+       "midis": [
+        67
+       ],
+       "names": [
+        "G4"
+       ],
+       "beats": 0.5
+      },
+      {
+       "midis": [
+        60,
+        64
+       ],
+       "names": [
+        "C4",
+        "E4"
+       ],
+       "beats": 3.0
+      }
+     ],
+     "lh": [
+      {
+       "midis": [
+        36
+       ],
+       "names": [
+        "C2"
+       ],
+       "beats": 2.0
+      },
+      {
+       "midis": [
+        52,
+        55
+       ],
+       "names": [
+        "E3",
+        "G3"
+       ],
+       "beats": 2.0
+      }
+     ]
+    },
+    {
+     "rh": [
+      {
+       "midis": [
+        65
+       ],
+       "names": [
+        "F4"
+       ],
+       "beats": 0.5
+      },
+      {
+       "midis": [
+        69
+       ],
+       "names": [
+        "A4"
+       ],
+       "beats": 0.5
+      },
+      {
+       "midis": [
+        67,
+        71
+       ],
+       "names": [
+        "G4",
+        "B4"
+       ],
+       "beats": 1.0
+      },
+      {
+       "midis": [
+        65
+       ],
+       "names": [
+        "F4"
+       ],
+       "beats": 0.5
+      },
+      {
+       "midis": [
+        69
+       ],
+       "names": [
+        "A4"
+       ],
+       "beats": 0.5
+      },
+      {
+       "midis": [
+        67,
+        71
+       ],
+       "names": [
+        "G4",
+        "B4"
+       ],
+       "beats": 1.0
+      }
+     ],
+     "lh": [
+      {
+       "midis": [
+        41
+       ],
+       "names": [
+        "F2"
+       ],
+       "beats": 2.0
+      },
+      {
+       "midis": [
+        57,
+        60
+       ],
+       "names": [
+        "A3",
+        "C4"
+       ],
+       "beats": 2.0
+      }
+     ]
+    },
+    {
+     "rh": [
+      {
+       "midis": [
+        65
+       ],
+       "names": [
+        "F4"
+       ],
+       "beats": 0.5
+      },
+      {
+       "midis": [
+        69
+       ],
+       "names": [
+        "A4"
+       ],
+       "beats": 0.5
+      },
+      {
+       "midis": [
+        71
+       ],
+       "names": [
+        "B4"
+       ],
+       "beats": 0.5
+      },
+      {
+       "midis": [
+        76
+       ],
+       "names": [
+        "E5"
+       ],
+       "beats": 0.5
+      },
+      {
+       "midis": [
+        71,
+        74
+       ],
+       "names": [
+        "B4",
+        "D5"
+       ],
+       "beats": 1.0
+      },
+      {
+       "midis": [
+        71
+       ],
+       "names": [
+        "B4"
+       ],
+       "beats": 0.5
+      },
+      {
+       "midis": [
+        72
+       ],
+       "names": [
+        "C5"
+       ],
+       "beats": 0.5
+      }
+     ],
+     "lh": [
+      {
+       "midis": [
+        41
+       ],
+       "names": [
+        "F2"
+       ],
+       "beats": 2.0
+      },
+      {
+       "midis": [
+        57,
+        60
+       ],
+       "names": [
+        "A3",
+        "C4"
+       ],
+       "beats": 2.0
+      }
+     ]
+    },
+    {
+     "rh": [
+      {
+       "midis": [
+        76
+       ],
+       "names": [
+        "E5"
+       ],
+       "beats": 0.5
+      },
+      {
+       "midis": [
+        71
+       ],
+       "names": [
+        "B4"
+       ],
+       "beats": 0.5
+      },
+      {
+       "midis": [
+        64,
+        67
+       ],
+       "names": [
+        "E4",
+        "G4"
+       ],
+       "beats": 2.0,
+       "tie": true
+      },
+      {
+       "midis": [
+        64,
+        67
+       ],
+       "names": [
+        "E4",
+        "G4"
+       ],
+       "beats": 0.5
+      },
+      {
+       "midis": [
+        67,
+        71
+       ],
+       "names": [
+        "G4",
+        "B4"
+       ],
+       "beats": 0.5
+      }
+     ],
+     "lh": [
+      {
+       "midis": [
+        36
+       ],
+       "names": [
+        "C2"
+       ],
+       "beats": 2.0
+      },
+      {
+       "midis": [
+        52,
+        55
+       ],
+       "names": [
+        "E3",
+        "G3"
+       ],
+       "beats": 2.0
+      }
+     ]
+    },
+    {
+     "rh": [
+      {
+       "midis": [
+        67
+       ],
+       "names": [
+        "G4"
+       ],
+       "beats": 0.5
+      },
+      {
+       "midis": [
+        62
+       ],
+       "names": [
+        "D4"
+       ],
+       "beats": 0.5
+      },
+      {
+       "midis": [
+        60,
+        64
+       ],
+       "names": [
+        "C4",
+        "E4"
+       ],
+       "beats": 3.0
+      }
+     ],
+     "lh": [
+      {
+       "midis": [
+        36
+       ],
+       "names": [
+        "C2"
+       ],
+       "beats": 2.0
+      },
+      {
+       "midis": [
+        52,
+        55
+       ],
+       "names": [
+        "E3",
+        "G3"
+       ],
+       "beats": 2.0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "song-of-time",
+   "title": "Song of Time",
+   "meter": "4/4",
+   "bars": [
+    [
+     {
+      "midi": 69,
+      "name": "A4",
+      "beats": 1.0
+     },
+     {
+      "midi": 62,
+      "name": "D4",
+      "beats": 2.0
+     },
+     {
+      "midi": 65,
+      "name": "F4",
+      "beats": 1.0
+     }
+    ],
+    [
+     {
+      "midi": 69,
+      "name": "A4",
+      "beats": 1.0
+     },
+     {
+      "midi": 62,
+      "name": "D4",
+      "beats": 2.0
+     },
+     {
+      "midi": 65,
+      "name": "F4",
+      "beats": 1.0
+     }
+    ],
+    [
+     {
+      "midi": 69,
+      "name": "A4",
+      "beats": 0.5
+     },
+     {
+      "midi": 72,
+      "name": "C5",
+      "beats": 0.5
+     },
+     {
+      "midi": 71,
+      "name": "B4",
+      "beats": 1.0
+     },
+     {
+      "midi": 67,
+      "name": "G4",
+      "beats": 1.0
+     },
+     {
+      "midi": 65,
+      "name": "F4",
+      "beats": 0.5
+     },
+     {
+      "midi": 67,
+      "name": "G4",
+      "beats": 0.5
+     }
+    ],
+    [
+     {
+      "midi": 69,
+      "name": "A4",
+      "beats": 1.0
+     },
+     {
+      "midi": 62,
+      "name": "D4",
+      "beats": 1.0
+     },
+     {
+      "midi": 60,
+      "name": "C4",
+      "beats": 0.5
+     },
+     {
+      "midi": 64,
+      "name": "E4",
+      "beats": 0.5
+     },
+     {
+      "midi": 62,
+      "name": "D4",
+      "beats": 1.0,
+      "tie": true
+     }
+    ],
+    [
+     {
+      "midi": 62,
+      "name": "D4",
+      "beats": 4.0
+     }
+    ],
+    [
+     {
+      "midi": 62,
+      "name": "D4",
+      "beats": 0.5
+     },
+     {
+      "midi": 60,
+      "name": "C4",
+      "beats": 0.5
+     },
+     {
+      "midi": 64,
+      "name": "E4",
+      "beats": 1.0
+     },
+     {
+      "midi": 60,
+      "name": "C4",
+      "beats": 1.0
+     },
+     {
+      "midi": 64,
+      "name": "E4",
+      "beats": 0.5
+     },
+     {
+      "midi": 65,
+      "name": "F4",
+      "beats": 0.5
+     }
+    ],
+    [
+     {
+      "midi": 62,
+      "name": "D4",
+      "beats": 4.0
+     }
+    ],
+    [
+     {
+      "midi": 62,
+      "name": "D4",
+      "beats": 0.5
+     },
+     {
+      "midi": 60,
+      "name": "C4",
+      "beats": 0.5
+     },
+     {
+      "midi": 64,
+      "name": "E4",
+      "beats": 1.0
+     },
+     {
+      "midi": 60,
+      "name": "C4",
+      "beats": 1.0
+     },
+     {
+      "midi": 65,
+      "name": "F4",
+      "beats": 0.5
+     },
+     {
+      "midi": 67,
+      "name": "G4",
+      "beats": 0.5
+     }
+    ],
+    [
+     {
+      "midi": 62,
+      "name": "D4",
+      "beats": 4.0
+     }
+    ]
+   ],
+   "partner": [
+    {
+     "rh": [
+      {
+       "midis": [
+        65,
+        69
+       ],
+       "names": [
+        "F4",
+        "A4"
+       ],
+       "beats": 1.0
+      },
+      {
+       "midis": [
+        62
+       ],
+       "names": [
+        "D4"
+       ],
+       "beats": 2.0
+      },
+      {
+       "midis": [
+        62,
+        65
+       ],
+       "names": [
+        "D4",
+        "F4"
+       ],
+       "beats": 1.0
+      }
+     ],
+     "lh": [
+      {
+       "midis": [
+        38
+       ],
+       "names": [
+        "D2"
+       ],
+       "beats": 2.0
+      },
+      {
+       "midis": [
+        45,
+        50,
+        53
+       ],
+       "names": [
+        "A2",
+        "D3",
+        "F3"
+       ],
+       "beats": 2.0
+      }
+     ]
+    },
+    {
+     "rh": [
+      {
+       "midis": [
+        65,
+        69
+       ],
+       "names": [
+        "F4",
+        "A4"
+       ],
+       "beats": 1.0
+      },
+      {
+       "midis": [
+        62
+       ],
+       "names": [
+        "D4"
+       ],
+       "beats": 2.0
+      },
+      {
+       "midis": [
+        62,
+        65
+       ],
+       "names": [
+        "D4",
+        "F4"
+       ],
+       "beats": 1.0
+      }
+     ],
+     "lh": [
+      {
+       "midis": [
+        38
+       ],
+       "names": [
+        "D2"
+       ],
+       "beats": 2.0
+      },
+      {
+       "midis": [
+        45,
+        50,
+        53
+       ],
+       "names": [
+        "A2",
+        "D3",
+        "F3"
+       ],
+       "beats": 2.0
+      }
+     ]
+    },
+    {
+     "rh": [
+      {
+       "midis": [
+        69
+       ],
+       "names": [
+        "A4"
+       ],
+       "beats": 0.5
+      },
+      {
+       "midis": [
+        69,
+        72
+       ],
+       "names": [
+        "A4",
+        "C5"
+       ],
+       "beats": 0.5
+      },
+      {
+       "midis": [
+        67,
+        71
+       ],
+       "names": [
+        "G4",
+        "B4"
+       ],
+       "beats": 1.0
+      },
+      {
+       "midis": [
+        67
+       ],
+       "names": [
+        "G4"
+       ],
+       "beats": 1.0
+      },
+      {
+       "midis": [
+        65
+       ],
+       "names": [
+        "F4"
+       ],
+       "beats": 0.5
+      },
+      {
+       "midis": [
+        67
+       ],
+       "names": [
+        "G4"
+       ],
+       "beats": 0.5
+      }
+     ],
+     "lh": [
+      {
+       "midis": [
+        41
+       ],
+       "names": [
+        "F2"
+       ],
+       "beats": 2.0
+      },
+      {
+       "midis": [
+        45,
+        48,
+        53
+       ],
+       "names": [
+        "A2",
+        "C3",
+        "F3"
+       ],
+       "beats": 2.0
+      }
+     ]
+    },
+    {
+     "rh": [
+      {
+       "midis": [
+        65,
+        69
+       ],
+       "names": [
+        "F4",
+        "A4"
+       ],
+       "beats": 1.0
+      },
+      {
+       "midis": [
+        62
+       ],
+       "names": [
+        "D4"
+       ],
+       "beats": 1.0
+      },
+      {
+       "midis": [
+        60
+       ],
+       "names": [
+        "C4"
+       ],
+       "beats": 0.5
+      },
+      {
+       "midis": [
+        64
+       ],
+       "names": [
+        "E4"
+       ],
+       "beats": 0.5
+      },
+      {
+       "midis": [
+        62
+       ],
+       "names": [
+        "D4"
+       ],
+       "beats": 1.0,
+       "tie": true
+      }
+     ],
+     "lh": [
+      {
+       "midis": [
+        38
+       ],
+       "names": [
+        "D2"
+       ],
+       "beats": 2.0
+      },
+      {
+       "midis": [
+        45,
+        50,
+        53
+       ],
+       "names": [
+        "A2",
+        "D3",
+        "F3"
+       ],
+       "beats": 2.0
+      }
+     ]
+    },
+    {
+     "rh": [
+      {
+       "midis": [
+        62
+       ],
+       "names": [
+        "D4"
+       ],
+       "beats": 4.0
+      }
+     ],
+     "lh": [
+      {
+       "midis": [
+        38
+       ],
+       "names": [
+        "D2"
+       ],
+       "beats": 2.0
+      },
+      {
+       "midis": [
+        45,
+        50,
+        53
+       ],
+       "names": [
+        "A2",
+        "D3",
+        "F3"
+       ],
+       "beats": 2.0
+      }
+     ]
+    },
+    {
+     "rh": [
+      {
+       "midis": [
+        62
+       ],
+       "names": [
+        "D4"
+       ],
+       "beats": 0.5
+      },
+      {
+       "midis": [
+        60
+       ],
+       "names": [
+        "C4"
+       ],
+       "beats": 0.5
+      },
+      {
+       "midis": [
+        64
+       ],
+       "names": [
+        "E4"
+       ],
+       "beats": 1.0
+      },
+      {
+       "midis": [
+        60
+       ],
+       "names": [
+        "C4"
+       ],
+       "beats": 1.0
+      },
+      {
+       "midis": [
+        60,
+        64
+       ],
+       "names": [
+        "C4",
+        "E4"
+       ],
+       "beats": 0.5
+      },
+      {
+       "midis": [
+        62,
+        65
+       ],
+       "names": [
+        "D4",
+        "F4"
+       ],
+       "beats": 0.5
+      }
+     ],
+     "lh": [
+      {
+       "midis": [
+        36
+       ],
+       "names": [
+        "C2"
+       ],
+       "beats": 2.0
+      },
+      {
+       "midis": [
+        43,
+        48,
+        52
+       ],
+       "names": [
+        "G2",
+        "C3",
+        "E3"
+       ],
+       "beats": 2.0
+      }
+     ]
+    },
+    {
+     "rh": [
+      {
+       "midis": [
+        62
+       ],
+       "names": [
+        "D4"
+       ],
+       "beats": 4.0
+      }
+     ],
+     "lh": [
+      {
+       "midis": [
+        38
+       ],
+       "names": [
+        "D2"
+       ],
+       "beats": 2.0
+      },
+      {
+       "midis": [
+        45,
+        50,
+        53
+       ],
+       "names": [
+        "A2",
+        "D3",
+        "F3"
+       ],
+       "beats": 2.0
+      }
+     ]
+    },
+    {
+     "rh": [
+      {
+       "midis": [
+        62
+       ],
+       "names": [
+        "D4"
+       ],
+       "beats": 0.5
+      },
+      {
+       "midis": [
+        60
+       ],
+       "names": [
+        "C4"
+       ],
+       "beats": 0.5
+      },
+      {
+       "midis": [
+        64
+       ],
+       "names": [
+        "E4"
+       ],
+       "beats": 1.0
+      },
+      {
+       "midis": [
+        60
+       ],
+       "names": [
+        "C4"
+       ],
+       "beats": 1.0
+      },
+      {
+       "midis": [
+        62,
+        65
+       ],
+       "names": [
+        "D4",
+        "F4"
+       ],
+       "beats": 0.5
+      },
+      {
+       "midis": [
+        64,
+        67
+       ],
+       "names": [
+        "E4",
+        "G4"
+       ],
+       "beats": 0.5
+      }
+     ],
+     "lh": [
+      {
+       "midis": [
+        36
+       ],
+       "names": [
+        "C2"
+       ],
+       "beats": 2.0
+      },
+      {
+       "midis": [
+        43,
+        48,
+        52
+       ],
+       "names": [
+        "G2",
+        "C3",
+        "E3"
+       ],
+       "beats": 2.0
+      }
+     ]
+    },
+    {
+     "rh": [
+      {
+       "midis": [
+        62
+       ],
+       "names": [
+        "D4"
+       ],
+       "beats": 4.0
+      }
+     ],
+     "lh": [
+      {
+       "midis": [
+        38
+       ],
+       "names": [
+        "D2"
+       ],
+       "beats": 2.0
+      },
+      {
+       "midis": [
+        45,
+        50,
+        53
+       ],
+       "names": [
+        "A2",
+        "D3",
+        "F3"
+       ],
+       "beats": 2.0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "song-of-storms",
+   "title": "Song of Storms",
+   "meter": "3/4",
+   "bars": [
+    [
+     {
+      "midi": 62,
+      "name": "D4",
+      "beats": 0.5
+     },
+     {
+      "midi": 65,
+      "name": "F4",
+      "beats": 0.5
+     },
+     {
+      "midi": 74,
+      "name": "D5",
+      "beats": 2.0
+     }
+    ],
+    [
+     {
+      "midi": 62,
+      "name": "D4",
+      "beats": 0.5
+     },
+     {
+      "midi": 65,
+      "name": "F4",
+      "beats": 0.5
+     },
+     {
+      "midi": 74,
+      "name": "D5",
+      "beats": 2.0
+     }
+    ],
+    [
+     {
+      "midi": 76,
+      "name": "E5",
+      "beats": 1.5
+     },
+     {
+      "midi": 77,
+      "name": "F5",
+      "beats": 0.5
+     },
+     {
+      "midi": 76,
+      "name": "E5",
+      "beats": 0.5
+     },
+     {
+      "midi": 77,
+      "name": "F5",
+      "beats": 0.5
+     }
+    ],
+    [
+     {
+      "midi": 76,
+      "name": "E5",
+      "beats": 0.5
+     },
+     {
+      "midi": 72,
+      "name": "C5",
+      "beats": 0.5
+     },
+     {
+      "midi": 69,
+      "name": "A4",
+      "beats": 2.0
+     }
+    ],
+    [
+     {
+      "midi": 69,
+      "name": "A4",
+      "beats": 1.0
+     },
+     {
+      "midi": 62,
+      "name": "D4",
+      "beats": 1.0
+     },
+     {
+      "midi": 65,
+      "name": "F4",
+      "beats": 0.5
+     },
+     {
+      "midi": 67,
+      "name": "G4",
+      "beats": 0.5
+     }
+    ],
+    [
+     {
+      "midi": 69,
+      "name": "A4",
+      "beats": 3.0
+     }
+    ],
+    [
+     {
+      "midi": 69,
+      "name": "A4",
+      "beats": 1.0
+     },
+     {
+      "midi": 62,
+      "name": "D4",
+      "beats": 1.0
+     },
+     {
+      "midi": 65,
+      "name": "F4",
+      "beats": 0.5
+     },
+     {
+      "midi": 67,
+      "name": "G4",
+      "beats": 0.5
+     }
+    ],
+    [
+     {
+      "midi": 64,
+      "name": "E4",
+      "beats": 3.0
+     }
+    ],
+    [
+     {
+      "midi": 62,
+      "name": "D4",
+      "beats": 3.0
+     }
+    ]
+   ],
+   "partner": [
+    {
+     "rh": [
+      {
+       "midis": [
+        62
+       ],
+       "names": [
+        "D4"
+       ],
+       "beats": 0.5
+      },
+      {
+       "midis": [
+        65
+       ],
+       "names": [
+        "F4"
+       ],
+       "beats": 0.5
+      },
+      {
+       "midis": [
+        65,
+        74
+       ],
+       "names": [
+        "F4",
+        "D5"
+       ],
+       "beats": 2.0
+      }
+     ],
+     "lh": [
+      {
+       "midis": [
+        38
+       ],
+       "names": [
+        "D2"
+       ],
+       "beats": 1.0
+      },
+      {
+       "midis": [
+        50,
+        53,
+        57
+       ],
+       "names": [
+        "D3",
+        "F3",
+        "A3"
+       ],
+       "beats": 1.0
+      },
+      {
+       "midis": [
+        50,
+        53,
+        57
+       ],
+       "names": [
+        "D3",
+        "F3",
+        "A3"
+       ],
+       "beats": 1.0
+      }
+     ]
+    },
+    {
+     "rh": [
+      {
+       "midis": [
+        62
+       ],
+       "names": [
+        "D4"
+       ],
+       "beats": 0.5
+      },
+      {
+       "midis": [
+        65
+       ],
+       "names": [
+        "F4"
+       ],
+       "beats": 0.5
+      },
+      {
+       "midis": [
+        71,
+        74
+       ],
+       "names": [
+        "B4",
+        "D5"
+       ],
+       "beats": 2.0
+      }
+     ],
+     "lh": [
+      {
+       "midis": [
+        40
+       ],
+       "names": [
+        "E2"
+       ],
+       "beats": 1.0
+      },
+      {
+       "midis": [
+        52,
+        55,
+        59
+       ],
+       "names": [
+        "E3",
+        "G3",
+        "B3"
+       ],
+       "beats": 1.0
+      },
+      {
+       "midis": [
+        52,
+        55,
+        59
+       ],
+       "names": [
+        "E3",
+        "G3",
+        "B3"
+       ],
+       "beats": 1.0
+      }
+     ]
+    },
+    {
+     "rh": [
+      {
+       "midis": [
+        72,
+        76
+       ],
+       "names": [
+        "C5",
+        "E5"
+       ],
+       "beats": 1.5
+      },
+      {
+       "midis": [
+        74,
+        77
+       ],
+       "names": [
+        "D5",
+        "F5"
+       ],
+       "beats": 0.5
+      },
+      {
+       "midis": [
+        72,
+        76
+       ],
+       "names": [
+        "C5",
+        "E5"
+       ],
+       "beats": 0.5
+      },
+      {
+       "midis": [
+        74,
+        77
+       ],
+       "names": [
+        "D5",
+        "F5"
+       ],
+       "beats": 0.5
+      }
+     ],
+     "lh": [
+      {
+       "midis": [
+        41
+       ],
+       "names": [
+        "F2"
+       ],
+       "beats": 1.0
+      },
+      {
+       "midis": [
+        53,
+        57,
+        60
+       ],
+       "names": [
+        "F3",
+        "A3",
+        "C4"
+       ],
+       "beats": 1.0
+      },
+      {
+       "midis": [
+        53,
+        57,
+        60
+       ],
+       "names": [
+        "F3",
+        "A3",
+        "C4"
+       ],
+       "beats": 1.0
+      }
+     ]
+    },
+    {
+     "rh": [
+      {
+       "midis": [
+        72,
+        76
+       ],
+       "names": [
+        "C5",
+        "E5"
+       ],
+       "beats": 0.5
+      },
+      {
+       "midis": [
+        69,
+        72
+       ],
+       "names": [
+        "A4",
+        "C5"
+       ],
+       "beats": 0.5
+      },
+      {
+       "midis": [
+        69
+       ],
+       "names": [
+        "A4"
+       ],
+       "beats": 2.0
+      }
+     ],
+     "lh": [
+      {
+       "midis": [
+        40
+       ],
+       "names": [
+        "E2"
+       ],
+       "beats": 1.0
+      },
+      {
+       "midis": [
+        52,
+        55,
+        59
+       ],
+       "names": [
+        "E3",
+        "G3",
+        "B3"
+       ],
+       "beats": 1.0
+      },
+      {
+       "midis": [
+        52,
+        55,
+        59
+       ],
+       "names": [
+        "E3",
+        "G3",
+        "B3"
+       ],
+       "beats": 1.0
+      }
+     ]
+    },
+    {
+     "rh": [
+      {
+       "midis": [
+        65,
+        69
+       ],
+       "names": [
+        "F4",
+        "A4"
+       ],
+       "beats": 1.0
+      },
+      {
+       "midis": [
+        62
+       ],
+       "names": [
+        "D4"
+       ],
+       "beats": 1.0
+      },
+      {
+       "midis": [
+        62,
+        65
+       ],
+       "names": [
+        "D4",
+        "F4"
+       ],
+       "beats": 0.5
+      },
+      {
+       "midis": [
+        67
+       ],
+       "names": [
+        "G4"
+       ],
+       "beats": 0.5
+      }
+     ],
+     "lh": [
+      {
+       "midis": [
+        46
+       ],
+       "names": [
+        "Bb2"
+       ],
+       "beats": 1.0
+      },
+      {
+       "midis": [
+        50,
+        53,
+        57
+       ],
+       "names": [
+        "D3",
+        "F3",
+        "A3"
+       ],
+       "beats": 1.0
+      },
+      {
+       "midis": [
+        50,
+        53,
+        57
+       ],
+       "names": [
+        "D3",
+        "F3",
+        "A3"
+       ],
+       "beats": 1.0
+      }
+     ]
+    },
+    {
+     "rh": [
+      {
+       "midis": [
+        65,
+        69
+       ],
+       "names": [
+        "F4",
+        "A4"
+       ],
+       "beats": 3.0
+      }
+     ],
+     "lh": [
+      {
+       "midis": [
+        41
+       ],
+       "names": [
+        "F2"
+       ],
+       "beats": 1.0
+      },
+      {
+       "midis": [
+        48,
+        53,
+        57
+       ],
+       "names": [
+        "C3",
+        "F3",
+        "A3"
+       ],
+       "beats": 1.0
+      },
+      {
+       "midis": [
+        48,
+        53,
+        57
+       ],
+       "names": [
+        "C3",
+        "F3",
+        "A3"
+       ],
+       "beats": 1.0
+      }
+     ]
+    },
+    {
+     "rh": [
+      {
+       "midis": [
+        65,
+        69
+       ],
+       "names": [
+        "F4",
+        "A4"
+       ],
+       "beats": 1.0
+      },
+      {
+       "midis": [
+        62
+       ],
+       "names": [
+        "D4"
+       ],
+       "beats": 1.0
+      },
+      {
+       "midis": [
+        62,
+        65
+       ],
+       "names": [
+        "D4",
+        "F4"
+       ],
+       "beats": 0.5
+      },
+      {
+       "midis": [
+        67
+       ],
+       "names": [
+        "G4"
+       ],
+       "beats": 0.5
+      }
+     ],
+     "lh": [
+      {
+       "midis": [
+        46
+       ],
+       "names": [
+        "Bb2"
+       ],
+       "beats": 1.0
+      },
+      {
+       "midis": [
+        50,
+        53,
+        57
+       ],
+       "names": [
+        "D3",
+        "F3",
+        "A3"
+       ],
+       "beats": 1.0
+      },
+      {
+       "midis": [
+        50,
+        53,
+        57
+       ],
+       "names": [
+        "D3",
+        "F3",
+        "A3"
+       ],
+       "beats": 1.0
+      }
+     ]
+    },
+    {
+     "rh": [
+      {
+       "midis": [
+        61,
+        64
+       ],
+       "names": [
+        "C#4",
+        "E4"
+       ],
+       "beats": 3.0
+      }
+     ],
+     "lh": [
+      {
+       "midis": [
+        45
+       ],
+       "names": [
+        "A2"
+       ],
+       "beats": 1.0
+      },
+      {
+       "midis": [
+        49,
+        52,
+        57
+       ],
+       "names": [
+        "C#3",
+        "E3",
+        "A3"
+       ],
+       "beats": 1.0
+      },
+      {
+       "midis": [
+        49,
+        52,
+        57
+       ],
+       "names": [
+        "C#3",
+        "E3",
+        "A3"
+       ],
+       "beats": 1.0
+      }
+     ]
+    },
+    {
+     "rh": [
+      {
+       "midis": [
+        62
+       ],
+       "names": [
+        "D4"
+       ],
+       "beats": 3.0
+      }
+     ],
+     "lh": [
+      {
+       "midis": [
+        38
+       ],
+       "names": [
+        "D2"
+       ],
+       "beats": 1.0
+      },
+      {
+       "midis": [
+        50,
+        53,
+        57
+       ],
+       "names": [
+        "D3",
+        "F3",
+        "A3"
+       ],
+       "beats": 1.0
+      },
+      {
+       "midis": [
+        50,
+        53,
+        57
+       ],
+       "names": [
+        "D3",
+        "F3",
+        "A3"
+       ],
+       "beats": 1.0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "minuet-of-forest",
+   "title": "Minuet of Forest",
+   "meter": "3/4",
+   "bars": [
+    [
+     {
+      "midi": 62,
+      "name": "D4",
+      "beats": 0.5
+     },
+     {
+      "midi": 74,
+      "name": "D5",
+      "beats": 0.5
+     },
+     {
+      "midi": 71,
+      "name": "B4",
+      "beats": 2.0
+     }
+    ],
+    [
+     {
+      "midi": 69,
+      "name": "A4",
+      "beats": 0.5
+     },
+     {
+      "midi": 71,
+      "name": "B4",
+      "beats": 0.5
+     },
+     {
+      "midi": 69,
+      "name": "A4",
+      "beats": 2.0
+     }
+    ],
+    [
+     {
+      "midi": 62,
+      "name": "D4",
+      "beats": 0.5
+     },
+     {
+      "midi": 74,
+      "name": "D5",
+      "beats": 0.5
+     },
+     {
+      "midi": 71,
+      "name": "B4",
+      "beats": 2.0
+     }
+    ],
+    [
+     {
+      "midi": 69,
+      "name": "A4",
+      "beats": 0.5
+     },
+     {
+      "midi": 71,
+      "name": "B4",
+      "beats": 0.5
+     },
+     {
+      "midi": 69,
+      "name": "A4",
+      "beats": 2.0
+     }
+    ],
+    [
+     {
+      "midi": 64,
+      "name": "E4",
+      "beats": 0.5
+     },
+     {
+      "midi": 69,
+      "name": "A4",
+      "beats": 0.5
+     },
+     {
+      "midi": 67,
+      "name": "G4",
+      "beats": 1.0
+     },
+     {
+      "midi": 69,
+      "name": "A4",
+      "beats": 1.0
+     }
+    ],
+    [
+     {
+      "midi": 67,
+      "name": "G4",
+      "beats": 0.25
+     },
+     {
+      "midi": 69,
+      "name": "A4",
+      "beats": 0.25
+     },
+     {
+      "midi": 67,
+      "name": "G4",
+      "beats": 0.5
+     },
+     {
+      "midi": 66,
+      "name": "F#4",
+      "beats": 2.0
+     }
+    ],
+    [
+     {
+      "midi": 64,
+      "name": "E4",
+      "beats": 2.0
+     },
+     {
+      "midi": null,
+      "beats": 0.5
+     },
+     {
+      "midi": 64,
+      "name": "E4",
+      "beats": 0.5
+     }
+    ],
+    [
+     {
+      "midi": 68,
+      "name": "G#4",
+      "beats": 0.5
+     },
+     {
+      "midi": 71,
+      "name": "B4",
+      "beats": 0.5
+     },
+     {
+      "midi": 76,
+      "name": "E5",
+      "beats": 2.0
+     }
+    ]
+   ],
+   "partner": [
+    {
+     "rh": [
+      {
+       "midis": [
+        62
+       ],
+       "names": [
+        "D4"
+       ],
+       "beats": 0.5
+      },
+      {
+       "midis": [
+        74
+       ],
+       "names": [
+        "D5"
+       ],
+       "beats": 0.5
+      },
+      {
+       "midis": [
+        71
+       ],
+       "names": [
+        "B4"
+       ],
+       "beats": 2.0
+      }
+     ],
+     "lh": [
+      {
+       "midis": [
+        40
+       ],
+       "names": [
+        "E2"
+       ],
+       "beats": 1.0
+      },
+      {
+       "midis": [
+        43,
+        47,
+        52
+       ],
+       "names": [
+        "G2",
+        "B2",
+        "E3"
+       ],
+       "beats": 1.0
+      },
+      {
+       "midis": [
+        43,
+        47,
+        52
+       ],
+       "names": [
+        "G2",
+        "B2",
+        "E3"
+       ],
+       "beats": 1.0
+      }
+     ]
+    },
+    {
+     "rh": [
+      {
+       "midis": [
+        69
+       ],
+       "names": [
+        "A4"
+       ],
+       "beats": 0.5
+      },
+      {
+       "midis": [
+        71
+       ],
+       "names": [
+        "B4"
+       ],
+       "beats": 0.5
+      },
+      {
+       "midis": [
+        69
+       ],
+       "names": [
+        "A4"
+       ],
+       "beats": 2.0
+      }
+     ],
+     "lh": [
+      {
+       "midis": [
+        45
+       ],
+       "names": [
+        "A2"
+       ],
+       "beats": 1.0
+      },
+      {
+       "midis": [
+        43,
+        49,
+        52
+       ],
+       "names": [
+        "G2",
+        "C#3",
+        "E3"
+       ],
+       "beats": 1.0
+      },
+      {
+       "midis": [
+        43,
+        49,
+        52
+       ],
+       "names": [
+        "G2",
+        "C#3",
+        "E3"
+       ],
+       "beats": 1.0
+      }
+     ]
+    },
+    {
+     "rh": [
+      {
+       "midis": [
+        62
+       ],
+       "names": [
+        "D4"
+       ],
+       "beats": 0.5
+      },
+      {
+       "midis": [
+        74
+       ],
+       "names": [
+        "D5"
+       ],
+       "beats": 0.5
+      },
+      {
+       "midis": [
+        71
+       ],
+       "names": [
+        "B4"
+       ],
+       "beats": 2.0
+      }
+     ],
+     "lh": [
+      {
+       "midis": [
+        40
+       ],
+       "names": [
+        "E2"
+       ],
+       "beats": 1.0
+      },
+      {
+       "midis": [
+        43,
+        47,
+        52
+       ],
+       "names": [
+        "G2",
+        "B2",
+        "E3"
+       ],
+       "beats": 1.0
+      },
+      {
+       "midis": [
+        43,
+        47,
+        52
+       ],
+       "names": [
+        "G2",
+        "B2",
+        "E3"
+       ],
+       "beats": 1.0
+      }
+     ]
+    },
+    {
+     "rh": [
+      {
+       "midis": [
+        69
+       ],
+       "names": [
+        "A4"
+       ],
+       "beats": 0.5
+      },
+      {
+       "midis": [
+        71
+       ],
+       "names": [
+        "B4"
+       ],
+       "beats": 0.5
+      },
+      {
+       "midis": [
+        69
+       ],
+       "names": [
+        "A4"
+       ],
+       "beats": 2.0
+      }
+     ],
+     "lh": [
+      {
+       "midis": [
+        45
+       ],
+       "names": [
+        "A2"
+       ],
+       "beats": 1.0
+      },
+      {
+       "midis": [
+        43,
+        49,
+        52
+       ],
+       "names": [
+        "G2",
+        "C#3",
+        "E3"
+       ],
+       "beats": 1.0
+      },
+      {
+       "midis": [
+        43,
+        49,
+        52
+       ],
+       "names": [
+        "G2",
+        "C#3",
+        "E3"
+       ],
+       "beats": 1.0
+      }
+     ]
+    },
+    {
+     "rh": [
+      {
+       "midis": [
+        64
+       ],
+       "names": [
+        "E4"
+       ],
+       "beats": 0.5
+      },
+      {
+       "midis": [
+        69
+       ],
+       "names": [
+        "A4"
+       ],
+       "beats": 0.5
+      },
+      {
+       "midis": [
+        67
+       ],
+       "names": [
+        "G4"
+       ],
+       "beats": 1.0
+      },
+      {
+       "midis": [
+        69
+       ],
+       "names": [
+        "A4"
+       ],
+       "beats": 1.0
+      }
+     ],
+     "lh": [
+      {
+       "midis": [
+        36
+       ],
+       "names": [
+        "C2"
+       ],
+       "beats": 1.0
+      },
+      {
+       "midis": [
+        43,
+        48,
+        52
+       ],
+       "names": [
+        "G2",
+        "C3",
+        "E3"
+       ],
+       "beats": 1.0
+      },
+      {
+       "midis": [
+        43,
+        48,
+        52
+       ],
+       "names": [
+        "G2",
+        "C3",
+        "E3"
+       ],
+       "beats": 1.0
+      }
+     ]
+    },
+    {
+     "rh": [
+      {
+       "midis": [
+        67
+       ],
+       "names": [
+        "G4"
+       ],
+       "beats": 0.25
+      },
+      {
+       "midis": [
+        69
+       ],
+       "names": [
+        "A4"
+       ],
+       "beats": 0.25
+      },
+      {
+       "midis": [
+        67
+       ],
+       "names": [
+        "G4"
+       ],
+       "beats": 0.5
+      },
+      {
+       "midis": [
+        66
+       ],
+       "names": [
+        "F#4"
+       ],
+       "beats": 2.0
+      }
+     ],
+     "lh": [
+      {
+       "midis": [
+        38
+       ],
+       "names": [
+        "D2"
+       ],
+       "beats": 1.0
+      },
+      {
+       "midis": [
+        42,
+        45,
+        50
+       ],
+       "names": [
+        "F#2",
+        "A2",
+        "D3"
+       ],
+       "beats": 1.0
+      },
+      {
+       "midis": [
+        42,
+        45,
+        50
+       ],
+       "names": [
+        "F#2",
+        "A2",
+        "D3"
+       ],
+       "beats": 1.0
+      }
+     ]
+    },
+    {
+     "rh": [
+      {
+       "midis": [
+        64
+       ],
+       "names": [
+        "E4"
+       ],
+       "beats": 2.0
+      },
+      {
+       "midis": [],
+       "names": [],
+       "beats": 0.5
+      },
+      {
+       "midis": [
+        64
+       ],
+       "names": [
+        "E4"
+       ],
+       "beats": 0.5
+      }
+     ],
+     "lh": [
+      {
+       "midis": [
+        40
+       ],
+       "names": [
+        "E2"
+       ],
+       "beats": 1.0
+      },
+      {
+       "midis": [
+        52
+       ],
+       "names": [
+        "E3"
+       ],
+       "beats": 0.5
+      },
+      {
+       "midis": [
+        56
+       ],
+       "names": [
+        "G#3"
+       ],
+       "beats": 0.5
+      },
+      {
+       "midis": [
+        59
+       ],
+       "names": [
+        "B3"
+       ],
+       "beats": 0.5
+      },
+      {
+       "midis": [],
+       "names": [],
+       "beats": 0.5
+      }
+     ]
+    },
+    {
+     "rh": [
+      {
+       "midis": [
+        68
+       ],
+       "names": [
+        "G#4"
+       ],
+       "beats": 0.5
+      },
+      {
+       "midis": [
+        71
+       ],
+       "names": [
+        "B4"
+       ],
+       "beats": 0.5
+      },
+      {
+       "midis": [
+        76
+       ],
+       "names": [
+        "E5"
+       ],
+       "beats": 2.0
+      }
+     ],
+     "lh": [
+      {
+       "midis": [
+        44,
+        47,
+        52
+       ],
+       "names": [
+        "G#2",
+        "B2",
+        "E3"
+       ],
+       "beats": 3.0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "bolero-of-fire",
+   "title": "Bolero of Fire",
+   "meter": "4/4",
+   "bars": [
+    [
+     {
+      "midi": 65,
+      "name": "F4",
+      "beats": 0.5
+     },
+     {
+      "midi": 62,
+      "name": "D4",
+      "beats": 0.5
+     },
+     {
+      "midi": 65,
+      "name": "F4",
+      "beats": 0.5
+     },
+     {
+      "midi": 62,
+      "name": "D4",
+      "beats": 0.5
+     },
+     {
+      "midi": 69,
+      "name": "A4",
+      "beats": 0.5
+     },
+     {
+      "midi": 65,
+      "name": "F4",
+      "beats": 0.5
+     },
+     {
+      "midi": 69,
+      "name": "A4",
+      "beats": 0.5
+     },
+     {
+      "midi": 65,
+      "name": "F4",
+      "beats": 0.5
+     }
+    ],
+    [
+     {
+      "midi": null,
+      "beats": 2.0
+     },
+     {
+      "midi": 77,
+      "name": "F5",
+      "beats": 0.5
+     },
+     {
+      "midi": 74,
+      "name": "D5",
+      "beats": 0.5
+     },
+     {
+      "midi": 77,
+      "name": "F5",
+      "beats": 0.5
+     },
+     {
+      "midi": 74,
+      "name": "D5",
+      "beats": 0.5
+     }
+    ],
+    [
+     {
+      "midi": 81,
+      "name": "A5",
+      "beats": 0.5
+     },
+     {
+      "midi": 77,
+      "name": "F5",
+      "beats": 0.5
+     },
+     {
+      "midi": 81,
+      "name": "A5",
+      "beats": 0.5
+     },
+     {
+      "midi": 77,
+      "name": "F5",
+      "beats": 0.5
+     },
+     {
+      "midi": null,
+      "beats": 2.0
+     }
+    ],
+    [
+     {
+      "midi": 79,
+      "name": "G5",
+      "beats": 0.5
+     },
+     {
+      "midi": 76,
+      "name": "E5",
+      "beats": 0.5
+     },
+     {
+      "midi": 79,
+      "name": "G5",
+      "beats": 0.5
+     },
+     {
+      "midi": 76,
+      "name": "E5",
+      "beats": 0.5
+     },
+     {
+      "midi": 82,
+      "name": "Bb5",
+      "beats": 0.5
+     },
+     {
+      "midi": 79,
+      "name": "G5",
+      "beats": 0.5
+     },
+     {
+      "midi": 82,
+      "name": "Bb5",
+      "beats": 0.5
+     },
+     {
+      "midi": 79,
+      "name": "G5",
+      "beats": 0.5
+     }
+    ],
+    [
+     {
+      "midi": null,
+      "beats": 2.0
+     },
+     {
+      "midi": 69,
+      "name": "A4",
+      "beats": 0.5
+     },
+     {
+      "midi": 65,
+      "name": "F4",
+      "beats": 0.5
+     },
+     {
+      "midi": 69,
+      "name": "A4",
+      "beats": 0.5
+     },
+     {
+      "midi": 65,
+      "name": "F4",
+      "beats": 0.5
+     }
+    ],
+    [
+     {
+      "midi": 74,
+      "name": "D5",
+      "beats": 0.5
+     },
+     {
+      "midi": 69,
+      "name": "A4",
+      "beats": 0.5
+     },
+     {
+      "midi": 74,
+      "name": "D5",
+      "beats": 0.5
+     },
+     {
+      "midi": 69,
+      "name": "A4",
+      "beats": 0.5
+     },
+     {
+      "midi": 77,
+      "name": "F5",
+      "beats": 0.5
+     },
+     {
+      "midi": 74,
+      "name": "D5",
+      "beats": 0.5
+     },
+     {
+      "midi": 77,
+      "name": "F5",
+      "beats": 0.5
+     },
+     {
+      "midi": 74,
+      "name": "D5",
+      "beats": 0.5
+     }
+    ],
+    [
+     {
+      "midi": 81,
+      "name": "A5",
+      "beats": 0.5
+     },
+     {
+      "midi": 76,
+      "name": "E5",
+      "beats": 0.5
+     },
+     {
+      "midi": 81,
+      "name": "A5",
+      "beats": 0.5
+     },
+     {
+      "midi": 76,
+      "name": "E5",
+      "beats": 0.5
+     },
+     {
+      "midi": 79,
+      "name": "G5",
+      "beats": 0.5
+     },
+     {
+      "midi": 73,
+      "name": "C#5",
+      "beats": 0.5
+     },
+     {
+      "midi": 79,
+      "name": "G5",
+      "beats": 0.5
+     },
+     {
+      "midi": 73,
+      "name": "C#5",
+      "beats": 0.5
+     }
+    ],
+    [
+     {
+      "midi": 77,
+      "name": "F5",
+      "beats": 0.5
+     },
+     {
+      "midi": 69,
+      "name": "A4",
+      "beats": 0.5
+     },
+     {
+      "midi": 65,
+      "name": "F4",
+      "beats": 0.5
+     },
+     {
+      "midi": 64,
+      "name": "E4",
+      "beats": 0.5
+     },
+     {
+      "midi": null,
+      "beats": 0.5
+     },
+     {
+      "midi": 62,
+      "name": "D4",
+      "beats": 0.25
+     },
+     {
+      "midi": 66,
+      "name": "F#4",
+      "beats": 0.25
+     },
+     {
+      "midi": 69,
+      "name": "A4",
+      "beats": 0.25
+     },
+     {
+      "midi": 74,
+      "name": "D5",
+      "beats": 0.25
+     },
+     {
+      "midi": 81,
+      "name": "A5",
+      "beats": 0.25
+     },
+     {
+      "midi": null,
+      "beats": 0.25
+     }
+    ],
+    [
+     {
+      "midi": 62,
+      "name": "D4",
+      "beats": 4.0
+     }
+    ]
+   ],
+   "partner": [
+    {
+     "rh": [
+      {
+       "midis": [
+        65
+       ],
+       "names": [
+        "F4"
+       ],
+       "beats": 0.5
+      },
+      {
+       "midis": [
+        62
+       ],
+       "names": [
+        "D4"
+       ],
+       "beats": 0.5
+      },
+      {
+       "midis": [
+        65
+       ],
+       "names": [
+        "F4"
+       ],
+       "beats": 0.5
+      },
+      {
+       "midis": [
+        62
+       ],
+       "names": [
+        "D4"
+       ],
+       "beats": 0.5
+      },
+      {
+       "midis": [
+        69
+       ],
+       "names": [
+        "A4"
+       ],
+       "beats": 0.5
+      },
+      {
+       "midis": [
+        65
+       ],
+       "names": [
+        "F4"
+       ],
+       "beats": 0.5
+      },
+      {
+       "midis": [
+        69
+       ],
+       "names": [
+        "A4"
+       ],
+       "beats": 0.5
+      },
+      {
+       "midis": [
+        65
+       ],
+       "names": [
+        "F4"
+       ],
+       "beats": 0.5
+      }
+     ],
+     "lh": [
+      {
+       "midis": [
+        38
+       ],
+       "names": [
+        "D2"
+       ],
+       "beats": 2.0
+      },
+      {
+       "midis": [
+        41
+       ],
+       "names": [
+        "F2"
+       ],
+       "beats": 2.0
+      }
+     ]
+    },
+    {
+     "rh": [
+      {
+       "midis": [],
+       "names": [],
+       "beats": 2.0
+      },
+      {
+       "midis": [
+        77
+       ],
+       "names": [
+        "F5"
+       ],
+       "beats": 0.5
+      },
+      {
+       "midis": [
+        74
+       ],
+       "names": [
+        "D5"
+       ],
+       "beats": 0.5
+      },
+      {
+       "midis": [
+        77
+       ],
+       "names": [
+        "F5"
+       ],
+       "beats": 0.5
+      },
+      {
+       "midis": [
+        74
+       ],
+       "names": [
+        "D5"
+       ],
+       "beats": 0.5
+      }
+     ],
+     "lh": [
+      {
+       "midis": [
+        41
+       ],
+       "names": [
+        "F2"
+       ],
+       "beats": 2.0
+      },
+      {
+       "midis": [
+        38
+       ],
+       "names": [
+        "D2"
+       ],
+       "beats": 2.0
+      }
+     ]
+    },
+    {
+     "rh": [
+      {
+       "midis": [
+        81
+       ],
+       "names": [
+        "A5"
+       ],
+       "beats": 0.5
+      },
+      {
+       "midis": [
+        77
+       ],
+       "names": [
+        "F5"
+       ],
+       "beats": 0.5
+      },
+      {
+       "midis": [
+        81
+       ],
+       "names": [
+        "A5"
+       ],
+       "beats": 0.5
+      },
+      {
+       "midis": [
+        77
+       ],
+       "names": [
+        "F5"
+       ],
+       "beats": 0.5
+      },
+      {
+       "midis": [],
+       "names": [],
+       "beats": 2.0
+      }
+     ],
+     "lh": [
+      {
+       "midis": [
+        38,
+        45
+       ],
+       "names": [
+        "D2",
+        "A2"
+       ],
+       "beats": 2.0
+      },
+      {
+       "midis": [
+        41
+       ],
+       "names": [
+        "F2"
+       ],
+       "beats": 2.0
+      }
+     ]
+    },
+    {
+     "rh": [
+      {
+       "midis": [
+        79
+       ],
+       "names": [
+        "G5"
+       ],
+       "beats": 0.5
+      },
+      {
+       "midis": [
+        76
+       ],
+       "names": [
+        "E5"
+       ],
+       "beats": 0.5
+      },
+      {
+       "midis": [
+        79
+       ],
+       "names": [
+        "G5"
+       ],
+       "beats": 0.5
+      },
+      {
+       "midis": [
+        76
+       ],
+       "names": [
+        "E5"
+       ],
+       "beats": 0.5
+      },
+      {
+       "midis": [
+        82
+       ],
+       "names": [
+        "Bb5"
+       ],
+       "beats": 0.5
+      },
+      {
+       "midis": [
+        79
+       ],
+       "names": [
+        "G5"
+       ],
+       "beats": 0.5
+      },
+      {
+       "midis": [
+        82
+       ],
+       "names": [
+        "Bb5"
+       ],
+       "beats": 0.5
+      },
+      {
+       "midis": [
+        79
+       ],
+       "names": [
+        "G5"
+       ],
+       "beats": 0.5
+      }
+     ],
+     "lh": [
+      {
+       "midis": [
+        40
+       ],
+       "names": [
+        "E2"
+       ],
+       "beats": 2.0
+      },
+      {
+       "midis": [
+        43
+       ],
+       "names": [
+        "G2"
+       ],
+       "beats": 2.0
+      }
+     ]
+    },
+    {
+     "rh": [
+      {
+       "midis": [],
+       "names": [],
+       "beats": 2.0
+      },
+      {
+       "midis": [
+        69
+       ],
+       "names": [
+        "A4"
+       ],
+       "beats": 0.5
+      },
+      {
+       "midis": [
+        65
+       ],
+       "names": [
+        "F4"
+       ],
+       "beats": 0.5
+      },
+      {
+       "midis": [
+        69
+       ],
+       "names": [
+        "A4"
+       ],
+       "beats": 0.5
+      },
+      {
+       "midis": [
+        65
+       ],
+       "names": [
+        "F4"
+       ],
+       "beats": 0.5
+      }
+     ],
+     "lh": [
+      {
+       "midis": [
+        43
+       ],
+       "names": [
+        "G2"
+       ],
+       "beats": 2.0
+      },
+      {
+       "midis": [
+        38,
+        45
+       ],
+       "names": [
+        "D2",
+        "A2"
+       ],
+       "beats": 2.0
+      }
+     ]
+    },
+    {
+     "rh": [
+      {
+       "midis": [
+        74
+       ],
+       "names": [
+        "D5"
+       ],
+       "beats": 0.5
+      },
+      {
+       "midis": [
+        69
+       ],
+       "names": [
+        "A4"
+       ],
+       "beats": 0.5
+      },
+      {
+       "midis": [
+        74
+       ],
+       "names": [
+        "D5"
+       ],
+       "beats": 0.5
+      },
+      {
+       "midis": [
+        69
+       ],
+       "names": [
+        "A4"
+       ],
+       "beats": 0.5
+      },
+      {
+       "midis": [
+        77
+       ],
+       "names": [
+        "F5"
+       ],
+       "beats": 0.5
+      },
+      {
+       "midis": [
+        74
+       ],
+       "names": [
+        "D5"
+       ],
+       "beats": 0.5
+      },
+      {
+       "midis": [
+        77
+       ],
+       "names": [
+        "F5"
+       ],
+       "beats": 0.5
+      },
+      {
+       "midis": [
+        74
+       ],
+       "names": [
+        "D5"
+       ],
+       "beats": 0.5
+      }
+     ],
+     "lh": [
+      {
+       "midis": [
+        38,
+        45
+       ],
+       "names": [
+        "D2",
+        "A2"
+       ],
+       "beats": 2.0
+      },
+      {
+       "midis": [
+        41,
+        45
+       ],
+       "names": [
+        "F2",
+        "A2"
+       ],
+       "beats": 2.0
+      }
+     ]
+    },
+    {
+     "rh": [
+      {
+       "midis": [
+        81
+       ],
+       "names": [
+        "A5"
+       ],
+       "beats": 0.5
+      },
+      {
+       "midis": [
+        76
+       ],
+       "names": [
+        "E5"
+       ],
+       "beats": 0.5
+      },
+      {
+       "midis": [
+        81
+       ],
+       "names": [
+        "A5"
+       ],
+       "beats": 0.5
+      },
+      {
+       "midis": [
+        76
+       ],
+       "names": [
+        "E5"
+       ],
+       "beats": 0.5
+      },
+      {
+       "midis": [
+        79
+       ],
+       "names": [
+        "G5"
+       ],
+       "beats": 0.5
+      },
+      {
+       "midis": [
+        73
+       ],
+       "names": [
+        "C#5"
+       ],
+       "beats": 0.5
+      },
+      {
+       "midis": [
+        79
+       ],
+       "names": [
+        "G5"
+       ],
+       "beats": 0.5
+      },
+      {
+       "midis": [
+        73
+       ],
+       "names": [
+        "C#5"
+       ],
+       "beats": 0.5
+      }
+     ],
+     "lh": [
+      {
+       "midis": [
+        40,
+        43
+       ],
+       "names": [
+        "E2",
+        "G2"
+       ],
+       "beats": 2.0
+      },
+      {
+       "midis": [
+        45,
+        49
+       ],
+       "names": [
+        "A2",
+        "C#3"
+       ],
+       "beats": 2.0
+      }
+     ]
+    },
+    {
+     "rh": [
+      {
+       "midis": [
+        77
+       ],
+       "names": [
+        "F5"
+       ],
+       "beats": 0.5
+      },
+      {
+       "midis": [
+        69
+       ],
+       "names": [
+        "A4"
+       ],
+       "beats": 0.5
+      },
+      {
+       "midis": [
+        65
+       ],
+       "names": [
+        "F4"
+       ],
+       "beats": 0.5
+      },
+      {
+       "midis": [
+        64
+       ],
+       "names": [
+        "E4"
+       ],
+       "beats": 0.5
+      },
+      {
+       "midis": [],
+       "names": [],
+       "beats": 0.5
+      },
+      {
+       "midis": [
+        62
+       ],
+       "names": [
+        "D4"
+       ],
+       "beats": 0.25
+      },
+      {
+       "midis": [
+        66
+       ],
+       "names": [
+        "F#4"
+       ],
+       "beats": 0.25
+      },
+      {
+       "midis": [
+        69
+       ],
+       "names": [
+        "A4"
+       ],
+       "beats": 0.25
+      },
+      {
+       "midis": [
+        74
+       ],
+       "names": [
+        "D5"
+       ],
+       "beats": 0.25
+      },
+      {
+       "midis": [
+        81
+       ],
+       "names": [
+        "A5"
+       ],
+       "beats": 0.25
+      },
+      {
+       "midis": [],
+       "names": [],
+       "beats": 0.25
+      }
+     ],
+     "lh": [
+      {
+       "midis": [
+        41,
+        45
+       ],
+       "names": [
+        "F2",
+        "A2"
+       ],
+       "beats": 0.5
+      },
+      {
+       "midis": [
+        38,
+        45
+       ],
+       "names": [
+        "D2",
+        "A2"
+       ],
+       "beats": 0.5
+      },
+      {
+       "midis": [
+        41,
+        45
+       ],
+       "names": [
+        "F2",
+        "A2"
+       ],
+       "beats": 0.5
+      },
+      {
+       "midis": [
+        40,
+        43
+       ],
+       "names": [
+        "E2",
+        "G2"
+       ],
+       "beats": 0.5
+      },
+      {
+       "midis": [
+        38,
+        45
+       ],
+       "names": [
+        "D2",
+        "A2"
+       ],
+       "beats": 2.0
+      }
+     ]
+    },
+    {
+     "rh": [
+      {
+       "midis": [
+        62
+       ],
+       "names": [
+        "D4"
+       ],
+       "beats": 4.0
+      }
+     ],
+     "lh": [
+      {
+       "midis": [
+        38,
+        45
+       ],
+       "names": [
+        "D2",
+        "A2"
+       ],
+       "beats": 4.0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "serenade-of-water",
+   "title": "Serenade of Water",
+   "meter": "3/4",
+   "bars": [
+    [
+     {
+      "midi": 62,
+      "name": "D4",
+      "beats": 1.0
+     },
+     {
+      "midi": 65,
+      "name": "F4",
+      "beats": 1.0
+     },
+     {
+      "midi": 69,
+      "name": "A4",
+      "beats": 1.0
+     }
+    ],
+    [
+     {
+      "midi": 69,
+      "name": "A4",
+      "beats": 1.0
+     },
+     {
+      "midi": 71,
+      "name": "B4",
+      "beats": 2.0
+     }
+    ],
+    [
+     {
+      "midi": 62,
+      "name": "D4",
+      "beats": 1.0
+     },
+     {
+      "midi": 65,
+      "name": "F4",
+      "beats": 1.0
+     },
+     {
+      "midi": 69,
+      "name": "A4",
+      "beats": 1.0
+     }
+    ],
+    [
+     {
+      "midi": 69,
+      "name": "A4",
+      "beats": 1.0
+     },
+     {
+      "midi": 71,
+      "name": "B4",
+      "beats": 2.0
+     }
+    ],
+    [
+     {
+      "midi": 69,
+      "name": "A4",
+      "beats": 1.0
+     },
+     {
+      "midi": 62,
+      "name": "D4",
+      "beats": 1.0
+     },
+     {
+      "midi": 65,
+      "name": "F4",
+      "beats": 1.0
+     }
+    ],
+    [
+     {
+      "midi": 67,
+      "name": "G4",
+      "beats": 0.5
+     },
+     {
+      "midi": 65,
+      "name": "F4",
+      "beats": 0.5
+     },
+     {
+      "midi": 64,
+      "name": "E4",
+      "beats": 1.0
+     },
+     {
+      "midi": 67,
+      "name": "G4",
+      "beats": 1.0
+     }
+    ],
+    [
+     {
+      "midi": 66,
+      "name": "F#4",
+      "beats": 3.0
+     }
+    ],
+    [
+     {
+      "midi": 62,
+      "name": "D4",
+      "beats": 3.0
+     }
+    ]
+   ],
+   "partner": [
+    {
+     "rh": [
+      {
+       "midis": [
+        62
+       ],
+       "names": [
+        "D4"
+       ],
+       "beats": 1.0
+      },
+      {
+       "midis": [
+        65
+       ],
+       "names": [
+        "F4"
+       ],
+       "beats": 1.0
+      },
+      {
+       "midis": [
+        69
+       ],
+       "names": [
+        "A4"
+       ],
+       "beats": 1.0
+      }
+     ],
+     "lh": [
+      {
+       "midis": [
+        38
+       ],
+       "names": [
+        "D2"
+       ],
+       "beats": 1.0
+      },
+      {
+       "midis": [
+        53,
+        57
+       ],
+       "names": [
+        "F3",
+        "A3"
+       ],
+       "beats": 2.0
+      }
+     ]
+    },
+    {
+     "rh": [
+      {
+       "midis": [
+        69
+       ],
+       "names": [
+        "A4"
+       ],
+       "beats": 1.0
+      },
+      {
+       "midis": [
+        71
+       ],
+       "names": [
+        "B4"
+       ],
+       "beats": 2.0
+      }
+     ],
+     "lh": [
+      {
+       "midis": [
+        43
+       ],
+       "names": [
+        "G2"
+       ],
+       "beats": 1.0
+      },
+      {
+       "midis": [
+        47,
+        50
+       ],
+       "names": [
+        "B2",
+        "D3"
+       ],
+       "beats": 2.0
+      }
+     ]
+    },
+    {
+     "rh": [
+      {
+       "midis": [
+        62
+       ],
+       "names": [
+        "D4"
+       ],
+       "beats": 1.0
+      },
+      {
+       "midis": [
+        65
+       ],
+       "names": [
+        "F4"
+       ],
+       "beats": 1.0
+      },
+      {
+       "midis": [
+        69
+       ],
+       "names": [
+        "A4"
+       ],
+       "beats": 1.0
+      }
+     ],
+     "lh": [
+      {
+       "midis": [
+        38
+       ],
+       "names": [
+        "D2"
+       ],
+       "beats": 1.0
+      },
+      {
+       "midis": [
+        53,
+        57
+       ],
+       "names": [
+        "F3",
+        "A3"
+       ],
+       "beats": 2.0
+      }
+     ]
+    },
+    {
+     "rh": [
+      {
+       "midis": [
+        69
+       ],
+       "names": [
+        "A4"
+       ],
+       "beats": 1.0
+      },
+      {
+       "midis": [
+        71
+       ],
+       "names": [
+        "B4"
+       ],
+       "beats": 2.0
+      }
+     ],
+     "lh": [
+      {
+       "midis": [
+        43
+       ],
+       "names": [
+        "G2"
+       ],
+       "beats": 1.0
+      },
+      {
+       "midis": [
+        47,
+        50
+       ],
+       "names": [
+        "B2",
+        "D3"
+       ],
+       "beats": 2.0
+      }
+     ]
+    },
+    {
+     "rh": [
+      {
+       "midis": [
+        69
+       ],
+       "names": [
+        "A4"
+       ],
+       "beats": 1.0
+      },
+      {
+       "midis": [
+        62
+       ],
+       "names": [
+        "D4"
+       ],
+       "beats": 1.0
+      },
+      {
+       "midis": [
+        65
+       ],
+       "names": [
+        "F4"
+       ],
+       "beats": 1.0
+      }
+     ],
+     "lh": [
+      {
+       "midis": [
+        38
+       ],
+       "names": [
+        "D2"
+       ],
+       "beats": 1.0
+      },
+      {
+       "midis": [
+        53,
+        57
+       ],
+       "names": [
+        "F3",
+        "A3"
+       ],
+       "beats": 2.0
+      }
+     ]
+    },
+    {
+     "rh": [
+      {
+       "midis": [
+        67
+       ],
+       "names": [
+        "G4"
+       ],
+       "beats": 0.5
+      },
+      {
+       "midis": [
+        65
+       ],
+       "names": [
+        "F4"
+       ],
+       "beats": 0.5
+      },
+      {
+       "midis": [
+        64
+       ],
+       "names": [
+        "E4"
+       ],
+       "beats": 1.0
+      },
+      {
+       "midis": [
+        67
+       ],
+       "names": [
+        "G4"
+       ],
+       "beats": 1.0
+      }
+     ],
+     "lh": [
+      {
+       "midis": [
+        36
+       ],
+       "names": [
+        "C2"
+       ],
+       "beats": 1.0
+      },
+      {
+       "midis": [
+        52,
+        55
+       ],
+       "names": [
+        "E3",
+        "G3"
+       ],
+       "beats": 2.0
+      }
+     ]
+    },
+    {
+     "rh": [
+      {
+       "midis": [
+        66
+       ],
+       "names": [
+        "F#4"
+       ],
+       "beats": 3.0
+      }
+     ],
+     "lh": [
+      {
+       "midis": [
+        38
+       ],
+       "names": [
+        "D2"
+       ],
+       "beats": 1.0
+      },
+      {
+       "midis": [
+        45,
+        50,
+        54
+       ],
+       "names": [
+        "A2",
+        "D3",
+        "F#3"
+       ],
+       "beats": 2.0
+      }
+     ]
+    },
+    {
+     "rh": [
+      {
+       "midis": [
+        62
+       ],
+       "names": [
+        "D4"
+       ],
+       "beats": 3.0
+      }
+     ],
+     "lh": [
+      {
+       "midis": [
+        45,
+        50,
+        54
+       ],
+       "names": [
+        "A2",
+        "D3",
+        "F#3"
+       ],
+       "beats": 3.0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "nocturne-of-shadow",
+   "title": "Nocturne of Shadow",
+   "meter": "4/4",
+   "bars": [
+    [
+     {
+      "midi": 71,
+      "name": "B4",
+      "beats": 1.0
+     },
+     {
+      "midi": 69,
+      "name": "A4",
+      "beats": 1.0
+     },
+     {
+      "midi": 69,
+      "name": "A4",
+      "beats": 0.5
+     },
+     {
+      "midi": 62,
+      "name": "D4",
+      "beats": 0.5
+     },
+     {
+      "midi": 71,
+      "name": "B4",
+      "beats": 0.5
+     },
+     {
+      "midi": 69,
+      "name": "A4",
+      "beats": 0.5
+     }
+    ],
+    [
+     {
+      "midi": 65,
+      "name": "F4",
+      "beats": 4.0
+     }
+    ],
+    [
+     {
+      "midi": 71,
+      "name": "B4",
+      "beats": 1.0
+     },
+     {
+      "midi": 69,
+      "name": "A4",
+      "beats": 1.0
+     },
+     {
+      "midi": 69,
+      "name": "A4",
+      "beats": 0.5
+     },
+     {
+      "midi": 62,
+      "name": "D4",
+      "beats": 0.5
+     },
+     {
+      "midi": 71,
+      "name": "B4",
+      "beats": 0.5
+     },
+     {
+      "midi": 69,
+      "name": "A4",
+      "beats": 0.5
+     }
+    ],
+    [
+     {
+      "midi": 65,
+      "name": "F4",
+      "beats": 4.0
+     }
+    ],
+    [
+     {
+      "midi": 67,
+      "name": "G4",
+      "beats": 1.0
+     },
+     {
+      "midi": 65,
+      "name": "F4",
+      "beats": 1.0
+     },
+     {
+      "midi": 65,
+      "name": "F4",
+      "beats": 0.5
+     },
+     {
+      "midi": 60,
+      "name": "C4",
+      "beats": 0.5
+     },
+     {
+      "midi": 67,
+      "name": "G4",
+      "beats": 0.5
+     },
+     {
+      "midi": 65,
+      "name": "F4",
+      "beats": 0.5
+     }
+    ],
+    [
+     {
+      "midi": 68,
+      "name": "G#4",
+      "beats": 1.0
+     },
+     {
+      "midi": 66,
+      "name": "F#4",
+      "beats": 1.0
+     },
+     {
+      "midi": 66,
+      "name": "F#4",
+      "beats": 0.5
+     },
+     {
+      "midi": 61,
+      "name": "C#4",
+      "beats": 0.5
+     },
+     {
+      "midi": 68,
+      "name": "G#4",
+      "beats": 0.5
+     },
+     {
+      "midi": 66,
+      "name": "F#4",
+      "beats": 0.5
+     }
+    ],
+    [
+     {
+      "midi": 65,
+      "name": "F4",
+      "beats": 4.0
+     }
+    ]
+   ],
+   "partner": [
+    {
+     "rh": [
+      {
+       "midis": [
+        71
+       ],
+       "names": [
+        "B4"
+       ],
+       "beats": 1.0
+      },
+      {
+       "midis": [
+        69
+       ],
+       "names": [
+        "A4"
+       ],
+       "beats": 1.0
+      },
+      {
+       "midis": [
+        69
+       ],
+       "names": [
+        "A4"
+       ],
+       "beats": 0.5
+      },
+      {
+       "midis": [
+        62
+       ],
+       "names": [
+        "D4"
+       ],
+       "beats": 0.5
+      },
+      {
+       "midis": [
+        71
+       ],
+       "names": [
+        "B4"
+       ],
+       "beats": 0.5
+      },
+      {
+       "midis": [
+        69
+       ],
+       "names": [
+        "A4"
+       ],
+       "beats": 0.5
+      }
+     ],
+     "lh": [
+      {
+       "midis": [
+        38,
+        47
+       ],
+       "names": [
+        "D2",
+        "B2"
+       ],
+       "beats": 2.0
+      },
+      {
+       "midis": [
+        40,
+        48
+       ],
+       "names": [
+        "E2",
+        "C3"
+       ],
+       "beats": 2.0
+      }
+     ]
+    },
+    {
+     "rh": [
+      {
+       "midis": [
+        65
+       ],
+       "names": [
+        "F4"
+       ],
+       "beats": 4.0
+      }
+     ],
+     "lh": [
+      {
+       "midis": [
+        41,
+        49
+       ],
+       "names": [
+        "F2",
+        "C#3"
+       ],
+       "beats": 2.0
+      },
+      {
+       "midis": [
+        40,
+        48
+       ],
+       "names": [
+        "E2",
+        "C3"
+       ],
+       "beats": 2.0
+      }
+     ]
+    },
+    {
+     "rh": [
+      {
+       "midis": [
+        71
+       ],
+       "names": [
+        "B4"
+       ],
+       "beats": 1.0
+      },
+      {
+       "midis": [
+        69
+       ],
+       "names": [
+        "A4"
+       ],
+       "beats": 1.0
+      },
+      {
+       "midis": [
+        69
+       ],
+       "names": [
+        "A4"
+       ],
+       "beats": 0.5
+      },
+      {
+       "midis": [
+        62
+       ],
+       "names": [
+        "D4"
+       ],
+       "beats": 0.5
+      },
+      {
+       "midis": [
+        71
+       ],
+       "names": [
+        "B4"
+       ],
+       "beats": 0.5
+      },
+      {
+       "midis": [
+        69
+       ],
+       "names": [
+        "A4"
+       ],
+       "beats": 0.5
+      }
+     ],
+     "lh": [
+      {
+       "midis": [
+        38,
+        47
+       ],
+       "names": [
+        "D2",
+        "B2"
+       ],
+       "beats": 2.0
+      },
+      {
+       "midis": [
+        40,
+        48
+       ],
+       "names": [
+        "E2",
+        "C3"
+       ],
+       "beats": 2.0
+      }
+     ]
+    },
+    {
+     "rh": [
+      {
+       "midis": [
+        65
+       ],
+       "names": [
+        "F4"
+       ],
+       "beats": 4.0
+      }
+     ],
+     "lh": [
+      {
+       "midis": [
+        41,
+        49
+       ],
+       "names": [
+        "F2",
+        "C#3"
+       ],
+       "beats": 2.0
+      },
+      {
+       "midis": [
+        40,
+        48
+       ],
+       "names": [
+        "E2",
+        "C3"
+       ],
+       "beats": 2.0
+      }
+     ]
+    },
+    {
+     "rh": [
+      {
+       "midis": [
+        67
+       ],
+       "names": [
+        "G4"
+       ],
+       "beats": 1.0
+      },
+      {
+       "midis": [
+        65
+       ],
+       "names": [
+        "F4"
+       ],
+       "beats": 1.0
+      },
+      {
+       "midis": [
+        65
+       ],
+       "names": [
+        "F4"
+       ],
+       "beats": 0.5
+      },
+      {
+       "midis": [
+        60
+       ],
+       "names": [
+        "C4"
+       ],
+       "beats": 0.5
+      },
+      {
+       "midis": [
+        67
+       ],
+       "names": [
+        "G4"
+       ],
+       "beats": 0.5
+      },
+      {
+       "midis": [
+        65
+       ],
+       "names": [
+        "F4"
+       ],
+       "beats": 0.5
+      }
+     ],
+     "lh": [
+      {
+       "midis": [
+        38,
+        43
+       ],
+       "names": [
+        "D2",
+        "G2"
+       ],
+       "beats": 2.0
+      },
+      {
+       "midis": [
+        41
+       ],
+       "names": [
+        "F2"
+       ],
+       "beats": 2.0
+      }
+     ]
+    },
+    {
+     "rh": [
+      {
+       "midis": [
+        68
+       ],
+       "names": [
+        "G#4"
+       ],
+       "beats": 1.0
+      },
+      {
+       "midis": [
+        66
+       ],
+       "names": [
+        "F#4"
+       ],
+       "beats": 1.0
+      },
+      {
+       "midis": [
+        66
+       ],
+       "names": [
+        "F#4"
+       ],
+       "beats": 0.5
+      },
+      {
+       "midis": [
+        61
+       ],
+       "names": [
+        "C#4"
+       ],
+       "beats": 0.5
+      },
+      {
+       "midis": [
+        68
+       ],
+       "names": [
+        "G#4"
+       ],
+       "beats": 0.5
+      },
+      {
+       "midis": [
+        66
+       ],
+       "names": [
+        "F#4"
+       ],
+       "beats": 0.5
+      }
+     ],
+     "lh": [
+      {
+       "midis": [
+        42
+       ],
+       "names": [
+        "F#2"
+       ],
+       "beats": 2.0
+      },
+      {
+       "midis": [
+        44
+       ],
+       "names": [
+        "G#2"
+       ],
+       "beats": 2.0
+      }
+     ]
+    },
+    {
+     "rh": [
+      {
+       "midis": [
+        65
+       ],
+       "names": [
+        "F4"
+       ],
+       "beats": 4.0
+      }
+     ],
+     "lh": [
+      {
+       "midis": [
+        41,
+        46
+       ],
+       "names": [
+        "F2",
+        "A#2"
+       ],
+       "beats": 4.0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "requiem-of-spirit",
+   "title": "Requiem of Spirit",
+   "meter": "4/4",
+   "bars": [
+    [
+     {
+      "midi": 62,
+      "name": "D4",
+      "beats": 1.0
+     },
+     {
+      "midi": 65,
+      "name": "F4",
+      "beats": 0.5
+     },
+     {
+      "midi": 62,
+      "name": "D4",
+      "beats": 0.5
+     },
+     {
+      "midi": 69,
+      "name": "A4",
+      "beats": 1.0
+     },
+     {
+      "midi": 65,
+      "name": "F4",
+      "beats": 1.0
+     }
+    ],
+    [
+     {
+      "midi": 62,
+      "name": "D4",
+      "beats": 4.0
+     }
+    ],
+    [
+     {
+      "midi": 62,
+      "name": "D4",
+      "beats": 1.0
+     },
+     {
+      "midi": 65,
+      "name": "F4",
+      "beats": 0.5
+     },
+     {
+      "midi": 62,
+      "name": "D4",
+      "beats": 0.5
+     },
+     {
+      "midi": 69,
+      "name": "A4",
+      "beats": 1.0
+     },
+     {
+      "midi": 65,
+      "name": "F4",
+      "beats": 1.0
+     }
+    ],
+    [
+     {
+      "midi": 69,
+      "name": "A4",
+      "beats": 2.0
+     },
+     {
+      "midi": 65,
+      "name": "F4",
+      "beats": 2.0
+     }
+    ],
+    [
+     {
+      "midi": 74,
+      "name": "D5",
+      "beats": 1.0
+     },
+     {
+      "midi": 77,
+      "name": "F5",
+      "beats": 0.5
+     },
+     {
+      "midi": 74,
+      "name": "D5",
+      "beats": 0.5
+     },
+     {
+      "midi": 81,
+      "name": "A5",
+      "beats": 1.0
+     },
+     {
+      "midi": 77,
+      "name": "F5",
+      "beats": 1.0
+     }
+    ],
+    [
+     {
+      "midi": 74,
+      "name": "D5",
+      "beats": 4.0
+     }
+    ]
+   ],
+   "partner": [
+    {
+     "rh": [
+      {
+       "midis": [
+        62
+       ],
+       "names": [
+        "D4"
+       ],
+       "beats": 1.0
+      },
+      {
+       "midis": [
+        65
+       ],
+       "names": [
+        "F4"
+       ],
+       "beats": 0.5
+      },
+      {
+       "midis": [
+        62
+       ],
+       "names": [
+        "D4"
+       ],
+       "beats": 0.5
+      },
+      {
+       "midis": [
+        69
+       ],
+       "names": [
+        "A4"
+       ],
+       "beats": 1.0
+      },
+      {
+       "midis": [
+        65
+       ],
+       "names": [
+        "F4"
+       ],
+       "beats": 1.0
+      }
+     ],
+     "lh": [
+      {
+       "midis": [
+        45,
+        50,
+        53
+       ],
+       "names": [
+        "A2",
+        "D3",
+        "F3"
+       ],
+       "beats": 2.0
+      },
+      {
+       "midis": [
+        45,
+        52,
+        55
+       ],
+       "names": [
+        "A2",
+        "E3",
+        "G3"
+       ],
+       "beats": 2.0
+      }
+     ]
+    },
+    {
+     "rh": [
+      {
+       "midis": [
+        62
+       ],
+       "names": [
+        "D4"
+       ],
+       "beats": 4.0
+      }
+     ],
+     "lh": [
+      {
+       "midis": [
+        45,
+        50,
+        53
+       ],
+       "names": [
+        "A2",
+        "D3",
+        "F3"
+       ],
+       "beats": 2.0
+      },
+      {
+       "midis": [
+        46
+       ],
+       "names": [
+        "Bb2"
+       ],
+       "beats": 0.5
+      },
+      {
+       "midis": [
+        45
+       ],
+       "names": [
+        "A2"
+       ],
+       "beats": 0.5
+      },
+      {
+       "midis": [
+        43
+       ],
+       "names": [
+        "G2"
+       ],
+       "beats": 0.5
+      },
+      {
+       "midis": [
+        46
+       ],
+       "names": [
+        "Bb2"
+       ],
+       "beats": 0.5
+      }
+     ]
+    },
+    {
+     "rh": [
+      {
+       "midis": [
+        62
+       ],
+       "names": [
+        "D4"
+       ],
+       "beats": 1.0
+      },
+      {
+       "midis": [
+        65
+       ],
+       "names": [
+        "F4"
+       ],
+       "beats": 0.5
+      },
+      {
+       "midis": [
+        62
+       ],
+       "names": [
+        "D4"
+       ],
+       "beats": 0.5
+      },
+      {
+       "midis": [
+        69
+       ],
+       "names": [
+        "A4"
+       ],
+       "beats": 1.0
+      },
+      {
+       "midis": [
+        65
+       ],
+       "names": [
+        "F4"
+       ],
+       "beats": 1.0
+      }
+     ],
+     "lh": [
+      {
+       "midis": [
+        45,
+        50,
+        53
+       ],
+       "names": [
+        "A2",
+        "D3",
+        "F3"
+       ],
+       "beats": 2.0
+      },
+      {
+       "midis": [
+        45,
+        52,
+        55
+       ],
+       "names": [
+        "A2",
+        "E3",
+        "G3"
+       ],
+       "beats": 2.0
+      }
+     ]
+    },
+    {
+     "rh": [
+      {
+       "midis": [
+        69
+       ],
+       "names": [
+        "A4"
+       ],
+       "beats": 2.0
+      },
+      {
+       "midis": [
+        65
+       ],
+       "names": [
+        "F4"
+       ],
+       "beats": 2.0
+      }
+     ],
+     "lh": [
+      {
+       "midis": [
+        45,
+        50
+       ],
+       "names": [
+        "A2",
+        "D3"
+       ],
+       "beats": 2.0
+      },
+      {
+       "midis": [
+        40,
+        46
+       ],
+       "names": [
+        "E2",
+        "Bb2"
+       ],
+       "beats": 0.5
+      },
+      {
+       "midis": [
+        48
+       ],
+       "names": [
+        "C3"
+       ],
+       "beats": 0.5
+      },
+      {
+       "midis": [
+        46
+       ],
+       "names": [
+        "Bb2"
+       ],
+       "beats": 0.5
+      },
+      {
+       "midis": [
+        45
+       ],
+       "names": [
+        "A2"
+       ],
+       "beats": 0.5
+      }
+     ]
+    },
+    {
+     "rh": [
+      {
+       "midis": [
+        74
+       ],
+       "names": [
+        "D5"
+       ],
+       "beats": 1.0
+      },
+      {
+       "midis": [
+        77
+       ],
+       "names": [
+        "F5"
+       ],
+       "beats": 0.5
+      },
+      {
+       "midis": [
+        74
+       ],
+       "names": [
+        "D5"
+       ],
+       "beats": 0.5
+      },
+      {
+       "midis": [
+        81
+       ],
+       "names": [
+        "A5"
+       ],
+       "beats": 1.0
+      },
+      {
+       "midis": [
+        77
+       ],
+       "names": [
+        "F5"
+       ],
+       "beats": 1.0
+      }
+     ],
+     "lh": [
+      {
+       "midis": [
+        46,
+        50,
+        55
+       ],
+       "names": [
+        "Bb2",
+        "D3",
+        "G3"
+       ],
+       "beats": 4.0
+      }
+     ]
+    },
+    {
+     "rh": [
+      {
+       "midis": [
+        74
+       ],
+       "names": [
+        "D5"
+       ],
+       "beats": 4.0
+      }
+     ],
+     "lh": [
+      {
+       "midis": [
+        45,
+        50
+       ],
+       "names": [
+        "A2",
+        "D3"
+       ],
+       "beats": 2.0
+      },
+      {
+       "midis": [
+        38,
+        42
+       ],
+       "names": [
+        "D2",
+        "F#2"
+       ],
+       "beats": 2.0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "prelude-of-light",
+   "title": "Prelude of Light",
+   "meter": "4/4",
+   "bars": [
+    [
+     {
+      "midi": 74,
+      "name": "D5",
+      "beats": 0.5
+     },
+     {
+      "midi": 69,
+      "name": "A4",
+      "beats": 0.5
+     },
+     {
+      "midi": null,
+      "beats": 1.0
+     },
+     {
+      "midi": 74,
+      "name": "D5",
+      "beats": 0.5
+     },
+     {
+      "midi": 69,
+      "name": "A4",
+      "beats": 0.5
+     },
+     {
+      "midi": 71,
+      "name": "B4",
+      "beats": 0.5
+     },
+     {
+      "midi": 74,
+      "name": "D5",
+      "beats": 0.5
+     }
+    ],
+    [
+     {
+      "midi": null,
+      "beats": 4.0
+     }
+    ],
+    [
+     {
+      "midi": 74,
+      "name": "D5",
+      "beats": 0.5
+     },
+     {
+      "midi": 69,
+      "name": "A4",
+      "beats": 1.0
+     },
+     {
+      "midi": null,
+      "beats": 0.5
+     },
+     {
+      "midi": 74,
+      "name": "D5",
+      "beats": 0.5
+     },
+     {
+      "midi": 69,
+      "name": "A4",
+      "beats": 0.5
+     },
+     {
+      "midi": 71,
+      "name": "B4",
+      "beats": 0.5
+     },
+     {
+      "midi": 74,
+      "name": "D5",
+      "beats": 0.5,
+      "tie": true
+     }
+    ],
+    [
+     {
+      "midi": 74,
+      "name": "D5",
+      "beats": 2.0
+     },
+     {
+      "midi": null,
+      "beats": 2.0
+     }
+    ],
+    [
+     {
+      "midi": null,
+      "beats": 4.0
+     }
+    ],
+    [
+     {
+      "midi": null,
+      "beats": 4.0
+     }
+    ],
+    [
+     {
+      "midi": null,
+      "beats": 3.0
+     },
+     {
+      "midi": null,
+      "beats": 0.5
+     },
+     {
+      "midi": 62,
+      "name": "D4",
+      "beats": 0.5
+     }
+    ],
+    [
+     {
+      "midi": 66,
+      "name": "F#4",
+      "beats": 0.5
+     },
+     {
+      "midi": 69,
+      "name": "A4",
+      "beats": 0.5
+     },
+     {
+      "midi": 73,
+      "name": "C#5",
+      "beats": 0.5
+     },
+     {
+      "midi": null,
+      "beats": 0.5
+     },
+     {
+      "midi": 62,
+      "name": "D4",
+      "beats": 0.25
+     },
+     {
+      "midi": 66,
+      "name": "F#4",
+      "beats": 0.25
+     },
+     {
+      "midi": 69,
+      "name": "A4",
+      "beats": 0.25
+     },
+     {
+      "midi": 74,
+      "name": "D5",
+      "beats": 0.25,
+      "tie": true
+     },
+     {
+      "midi": 74,
+      "name": "D5",
+      "beats": 1.0
+     }
+    ]
+   ],
+   "partner": [
+    {
+     "rh": [
+      {
+       "midis": [
+        74
+       ],
+       "names": [
+        "D5"
+       ],
+       "beats": 0.5
+      },
+      {
+       "midis": [
+        69
+       ],
+       "names": [
+        "A4"
+       ],
+       "beats": 0.5
+      },
+      {
+       "midis": [],
+       "names": [],
+       "beats": 1.0
+      },
+      {
+       "midis": [
+        74
+       ],
+       "names": [
+        "D5"
+       ],
+       "beats": 0.5
+      },
+      {
+       "midis": [
+        69
+       ],
+       "names": [
+        "A4"
+       ],
+       "beats": 0.5
+      },
+      {
+       "midis": [
+        71
+       ],
+       "names": [
+        "B4"
+       ],
+       "beats": 0.5
+      },
+      {
+       "midis": [
+        74
+       ],
+       "names": [
+        "D5"
+       ],
+       "beats": 0.5
+      }
+     ],
+     "lh": [
+      {
+       "midis": [
+        38
+       ],
+       "names": [
+        "D2"
+       ],
+       "beats": 1.0
+      },
+      {
+       "midis": [
+        45,
+        50,
+        54
+       ],
+       "names": [
+        "A2",
+        "D3",
+        "F#3"
+       ],
+       "beats": 3.0
+      }
+     ]
+    },
+    {
+     "rh": [
+      {
+       "midis": [],
+       "names": [],
+       "beats": 4.0
+      }
+     ],
+     "lh": [
+      {
+       "midis": [
+        43
+       ],
+       "names": [
+        "G2"
+       ],
+       "beats": 1.0
+      },
+      {
+       "midis": [
+        47,
+        50,
+        55
+       ],
+       "names": [
+        "B2",
+        "D3",
+        "G3"
+       ],
+       "beats": 3.0
+      }
+     ]
+    },
+    {
+     "rh": [
+      {
+       "midis": [
+        74
+       ],
+       "names": [
+        "D5"
+       ],
+       "beats": 0.5
+      },
+      {
+       "midis": [
+        69
+       ],
+       "names": [
+        "A4"
+       ],
+       "beats": 1.0
+      },
+      {
+       "midis": [],
+       "names": [],
+       "beats": 0.5
+      },
+      {
+       "midis": [
+        74
+       ],
+       "names": [
+        "D5"
+       ],
+       "beats": 0.5
+      },
+      {
+       "midis": [
+        69
+       ],
+       "names": [
+        "A4"
+       ],
+       "beats": 0.5
+      },
+      {
+       "midis": [
+        71
+       ],
+       "names": [
+        "B4"
+       ],
+       "beats": 0.5
+      },
+      {
+       "midis": [
+        74
+       ],
+       "names": [
+        "D5"
+       ],
+       "beats": 0.5,
+       "tie": true
+      }
+     ],
+     "lh": [
+      {
+       "midis": [
+        38
+       ],
+       "names": [
+        "D2"
+       ],
+       "beats": 1.0
+      },
+      {
+       "midis": [
+        45,
+        50,
+        54
+       ],
+       "names": [
+        "A2",
+        "D3",
+        "F#3"
+       ],
+       "beats": 3.0
+      }
+     ]
+    },
+    {
+     "rh": [
+      {
+       "midis": [
+        74
+       ],
+       "names": [
+        "D5"
+       ],
+       "beats": 2.0
+      },
+      {
+       "midis": [],
+       "names": [],
+       "beats": 2.0
+      }
+     ],
+     "lh": [
+      {
+       "midis": [
+        43
+       ],
+       "names": [
+        "G2"
+       ],
+       "beats": 1.0
+      },
+      {
+       "midis": [
+        47,
+        50,
+        55
+       ],
+       "names": [
+        "B2",
+        "D3",
+        "G3"
+       ],
+       "beats": 3.0
+      }
+     ]
+    },
+    {
+     "rh": [
+      {
+       "midis": [],
+       "names": [],
+       "beats": 4.0
+      }
+     ],
+     "lh": [
+      {
+       "midis": [
+        40
+       ],
+       "names": [
+        "E2"
+       ],
+       "beats": 1.0
+      },
+      {
+       "midis": [
+        43,
+        47,
+        52
+       ],
+       "names": [
+        "G2",
+        "B2",
+        "E3"
+       ],
+       "beats": 3.0
+      }
+     ]
+    },
+    {
+     "rh": [
+      {
+       "midis": [],
+       "names": [],
+       "beats": 4.0
+      }
+     ],
+     "lh": [
+      {
+       "midis": [
+        39
+       ],
+       "names": [
+        "D#2"
+       ],
+       "beats": 1.0
+      },
+      {
+       "midis": [
+        43,
+        46,
+        51
+       ],
+       "names": [
+        "G2",
+        "A#2",
+        "D#3"
+       ],
+       "beats": 3.0
+      }
+     ]
+    },
+    {
+     "rh": [
+      {
+       "midis": [],
+       "names": [],
+       "beats": 3.0
+      },
+      {
+       "midis": [],
+       "names": [],
+       "beats": 0.5
+      },
+      {
+       "midis": [
+        62
+       ],
+       "names": [
+        "D4"
+       ],
+       "beats": 0.5
+      }
+     ],
+     "lh": [
+      {
+       "midis": [
+        45,
+        49
+       ],
+       "names": [
+        "A2",
+        "C#3"
+       ],
+       "beats": 0.5
+      },
+      {
+       "midis": [
+        38
+       ],
+       "names": [
+        "D2"
+       ],
+       "beats": 0.5
+      },
+      {
+       "midis": [
+        42
+       ],
+       "names": [
+        "F#2"
+       ],
+       "beats": 0.5
+      },
+      {
+       "midis": [
+        45
+       ],
+       "names": [
+        "A2"
+       ],
+       "beats": 0.5
+      },
+      {
+       "midis": [
+        50
+       ],
+       "names": [
+        "D3"
+       ],
+       "beats": 0.5
+      },
+      {
+       "midis": [
+        54
+       ],
+       "names": [
+        "F#3"
+       ],
+       "beats": 0.5
+      },
+      {
+       "midis": [
+        57
+       ],
+       "names": [
+        "A3"
+       ],
+       "beats": 0.5
+      },
+      {
+       "midis": [],
+       "names": [],
+       "beats": 0.5
+      }
+     ]
+    },
+    {
+     "rh": [
+      {
+       "midis": [
+        66
+       ],
+       "names": [
+        "F#4"
+       ],
+       "beats": 0.5
+      },
+      {
+       "midis": [
+        69
+       ],
+       "names": [
+        "A4"
+       ],
+       "beats": 0.5
+      },
+      {
+       "midis": [
+        73
+       ],
+       "names": [
+        "C#5"
+       ],
+       "beats": 0.5
+      },
+      {
+       "midis": [],
+       "names": [],
+       "beats": 0.5
+      },
+      {
+       "midis": [
+        62
+       ],
+       "names": [
+        "D4"
+       ],
+       "beats": 0.25
+      },
+      {
+       "midis": [
+        66
+       ],
+       "names": [
+        "F#4"
+       ],
+       "beats": 0.25
+      },
+      {
+       "midis": [
+        69
+       ],
+       "names": [
+        "A4"
+       ],
+       "beats": 0.25
+      },
+      {
+       "midis": [
+        74
+       ],
+       "names": [
+        "D5"
+       ],
+       "beats": 0.25,
+       "tie": true
+      },
+      {
+       "midis": [
+        74
+       ],
+       "names": [
+        "D5"
+       ],
+       "beats": 1.0
+      }
+     ],
+     "lh": [
+      {
+       "midis": [
+        45,
+        49
+       ],
+       "names": [
+        "A2",
+        "C#3"
+       ],
+       "beats": 4.0
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}
